@@ -1,0 +1,62 @@
+.fancy-link:link, .fancy-link:visited {
+  background-color: transparent;
+  box-shadow: inset 0 -.25rem 0 rgba(255, 99, 0, .2);
+  color: rgba(255, 99, 0, 1);
+  text-decoration: none;
+  transition: color .15s ease-in;
+  -webkit-text-decoration-skip: objects;
+  -webkit-transition: box-shadow .15s ease-in;
+}
+.fancy-link:hover {
+  box-shadow: inset 0 -1.5rem 0 rgba(255, 99, 0, .2);
+}
+
+.iphone-mask {
+    border-top-width: 4rem;
+    border-bottom-width: 4rem;
+}
+
+.iphone-mask:before {
+    background-color: #eee;
+    border: 1px solid #eee;
+    border-top-color: #e1e1e1;
+    border-left-color: #e1e1e1;
+    border-radius: .5em;
+    box-sizing: border-box;
+    content: "";
+    display: block;
+    position: absolute;
+    top: -2em;
+    left: 40%;
+    right: 40%;
+    height: .5em;
+}
+.iphone-mask:after {
+    border: .125em solid #eee;
+    border-top-color: #e1e1e1;
+    border-left-color: #e1e1e1;
+    border-radius: 100%;
+    box-sizing: border-box;
+    content: "";
+    display: block;
+    position: absolute;
+    margin-left: -1.25em;
+    bottom: -3.25em;
+    left: 50%;
+    width: 2.5em;
+    height: 2.5em;
+}
+
+.iphone-mask .slick-dots {
+    bottom: -6em;
+    left: 0;
+    right: 0;
+}
+
+.iphone-mask .slick-dots li button:before {
+    color: #ff8030;
+}
+
+.iphone-mask .slick-dots li.slick-active button:before {
+    color: #ff6300;
+}
