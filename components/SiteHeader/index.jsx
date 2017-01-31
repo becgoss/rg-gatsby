@@ -3,7 +3,6 @@ import { RouteHandler, Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
 import SiteNav from '../SiteNav'
-import './style.css'
 import profilePic from '../../pages/fake-shoulder-bw.jpg'
 
 class SiteHeader extends React.Component {
@@ -14,14 +13,14 @@ class SiteHeader extends React.Component {
         let header = (
             <div>
           { isHome ? (
-              <article className='pa3 ph5-ns white'>
+              <article className='pa3 ph5-ns orange cf bb b--orange'>
                   <div className='fl f3 w-80 measure-narrow-l lh-copy fw4'>
                     <h1 className='f1 fw5 mb0 lh-title'>Hello!</h1>
                     <p dangerouslySetInnerHTML={ {    __html: config.siteDescription} } />
                   </div>
                   <figure className='fr w-20 dt mv4 mh0'>
                     <span
-                        className='dtc w-100 br-100 aspect-ratio aspect-ratio--1x1 pb-100 bg-orange cover o-90'
+                        className='dtc w-100 br-100 aspect-ratio aspect-ratio--1x1 pb-100 bg-orange cover'
                         style={{
                             backgroundImage: 'url(' + profilePic + ')'
                         }}
@@ -36,10 +35,12 @@ class SiteHeader extends React.Component {
         )
 
         return (
+          <div>
             <header role='banner' className='bg-orange cf mb3'>
                 <SiteNav {...this.props}/>
-                { header }
             </header>
+            { header }
+          </div>
         );
     }
 }

@@ -28,7 +28,7 @@ module.exports = React.createClass({
               { font }
               { css }
             </head>
-            <body className="avenir orange">
+            <body className="avenir black">
               <div id="react-mount" dangerouslySetInnerHTML={ {    __html: this.props.body} } />
               <script src={ prefixLink(`/bundle.js?t=${BUILD_TIME}`) } />
             </body>

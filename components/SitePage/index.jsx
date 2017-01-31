@@ -5,7 +5,6 @@ import { prefixLink } from 'gatsby-helpers'
 import access from 'safe-access'
 import { config } from 'config'
 import SiteHeader from '../SiteHeader'
-import './style.css';
 
 class SitePage extends React.Component {
     render() {
@@ -16,8 +15,10 @@ class SitePage extends React.Component {
             <div>
               <SiteHeader {...this.props}/>
               <main role='main' className='pa3 ph5-ns'>
-                  <h1>{ post.title }</h1>
-                  <div dangerouslySetInnerHTML={ {    __html: post.body} } />
+                  <header>
+                    <h1 className='orange fw6'>{ post.title }</h1>
+                  </header>
+                  <div className='cf' dangerouslySetInnerHTML={ {    __html: post.body} } />
               </main>
             </div>
             );

@@ -25,7 +25,7 @@ class SiteIndex extends React.Component {
 
                 pageLinks.push(
 
-                    <div className='cf bb pb5 mv5 b-orange'>
+                    <div className='cf bb pb5 mv5 b--orange'>
                       <figure className='fr w-100 w-60-m w-70-l ma0'>
                         <img src={ prefixLink(image) } />
                       </figure>
@@ -44,7 +44,7 @@ class SiteIndex extends React.Component {
               <Helmet title={ config.siteTitle }/>
               <SiteHeader {...this.props}/>
               <main role='main' className='pa3 ph5-ns'>
-                  <div className='main-inner'>
+                  <div className='page-inner'>
                     { pageLinks }
                   </div>
               </main>
