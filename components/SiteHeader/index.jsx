@@ -14,8 +14,8 @@ class SiteHeader extends React.Component {
         let header = (
             <div>
           { isHome ? (
-              <article className='pa3 ph5-ns washed-yellow'>
-                  <div className='fl f3 w-80 measure-narrow-l lh-copy fw4 washed-yellow'>
+              <article className='pa3 ph5-ns white'>
+                  <div className='fl f3 w-80 measure-narrow-l lh-copy fw4'>
                     <h1 className='f1 fw5 mb0 lh-title'>Hello!</h1>
                     <p dangerouslySetInnerHTML={ {    __html: config.siteDescription} } />
                   </div>
