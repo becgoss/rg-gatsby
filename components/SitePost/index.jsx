@@ -11,7 +11,6 @@ import '../../static/css/slick.css'
 import '../../static/css/slick-theme.css'
 import $ from 'jquery';
 import '../../static/js/slick.min.js'
-import '../../static/js/slick-init.js'
 
 class SitePost extends React.Component {
     componentDidMount() {

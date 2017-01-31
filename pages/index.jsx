@@ -9,8 +9,6 @@ import SitePost from '../components/SitePost'
 import SiteHeader from '../components/SiteHeader'
 // import imageSrc from './articles/2015-05-01-hello-world/whats-in-the-fridge.jpg'
 
-
-
 class SiteIndex extends React.Component {
     render() {
         const pageLinks = []
