@@ -36,7 +36,7 @@ class SiteHeader extends React.Component {
 
         return (
           <div>
-            <header role='banner' className='bg-orange cf mb3'>
+            <header role='banner' className='bg-orange cf'>
                 <SiteNav {...this.props}/>
             </header>
             { header }
