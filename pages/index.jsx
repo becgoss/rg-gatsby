@@ -24,18 +24,20 @@ class SiteIndex extends React.Component {
                 const season = access(page, 'data.season')
                 const image = access(page, 'data.image')
                 const imagePath = access(page, 'data.path')
-                const headerBgColor = access(page, 'data.headerBgColor')
+                const headerBgColor = access(page, 'data.headerBgColor') || 'bg-light-gray'
 
                 pageLinks.push(
 
                     <div className='cf bb pb5 mv5 b--orange'>
-                      <div className={`fr w-100 w-60-m w-70-l ma0 ${ headerBgColor }`}>
-                          <figure className="ma0 relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
-                              <img src={ imagePath + image } alt='Newsflare Home Screen' className='absolute top-1'    style={{
-                                      left: '50%',
-                                      transform: 'translate(-50%, 0)'
-                              }} />
-                          </figure>
+                        <div className={`fr w-100 w-60-m w-70-l ma0 ${ headerBgColor }`}>
+                            <Link to={ prefixLink(page.path) }>
+                                <figure className="ma0 relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
+                                  <img src={ imagePath + image } alt='Newsflare Home Screen' className='absolute top-1'    style={{
+                                          left: '50%',
+                                          transform: 'translate(-50%, 0)'
+                                  }} />
+                                </figure>
+                            </Link>
                       </div>
                         <article className='fl w-100 w-40-m w-30-ns pr3-ns'>
                             <h2 className='f2 fw6 mt2 mt0-ns mb3'>{ title }</h2>
