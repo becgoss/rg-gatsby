@@ -32,7 +32,7 @@ The Android App also experiences technical issues and the error messaging to use
 
 Our users needs a way to upload a video with ease and speed because the video could be an important breaking news story. We believe that by creating a easy and quick upload process for our users we will achieve a greater retention rate of our users. We will know this to be true when we see an increase in video uploads, unique users and a decrease in App uninstalls. 
  
-Skills Used: Competitive Analysis, Task Analysis, Experience Mapping, User Interviews, Affinity Mapping, Feature Analysis, Personas, User Flows, Prototyping, User Testing & User Interface Design.
+**Skills Used:** Competitive Analysis, Task Analysis, Experience Mapping, User Interviews, Affinity Mapping, Feature Analysis, Personas, User Flows, Prototyping, User Testing & User Interface Design.
 Software used: Omingraffle, Photoshop, Sketch & Invision.
  The Insight & Research:
 Newsflare provided access to their current android app users, this was really crucial in gathering insights into how they are currently using the app and any problems that they have encountered. We also spoke to people who hadn’t seen the app before to get unbiased feedback on the functionality. Once we had all the feedback from interviews we turned these into an affinity map which highlighted the similarities in users experiences and gave a clear indication to the problems most users encountered with the android application.
