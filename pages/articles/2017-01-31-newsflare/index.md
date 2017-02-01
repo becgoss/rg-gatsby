@@ -4,8 +4,11 @@ date: "2017-01-31T21:28:03.284Z"
 layout: post
 path: "/newsflare/"
 category: "Case Study"
-description: "Newsflare are a company specialising in user generated video which they license to news organisations around the world. Users upload content to the Newsflare platform through desktop or a mobile application. Newsflare had identified a problem with Android app, they were receiving a high amount of uninstalls and inactive users, this was attributed to a poor upload experience. They wanted to improve the upload process, increase browsing time on the app and reduce the number of app uninstalls."
-image: "./whats-in-the-fridge.jpg"
+season: "Winter 2016"
+headerBgColor: "bg-light-gray"
+headerTextColor: "near-black"
+description: "Newsflare are a company specialising in user generated video which they license to news organisations around the world. Users upload content to the Newsflare platform through desktop or a mobile application."
+image: "./newsflare-phone-header.png"
 ---
 
 <div class="f4 measure-wide center">

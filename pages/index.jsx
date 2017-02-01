@@ -21,17 +21,28 @@ class SiteIndex extends React.Component {
                 const description = access(page, 'data.description')
                 const datePublished = access(page, 'data.date')
                 const category = access(page, 'data.category')
+                const season = access(page, 'data.season')
                 const image = access(page, 'data.image')
+                const imagePath = access(page, 'data.path')
+                const headerBgColor = access(page, 'data.headerBgColor') || 'bg-light-gray'
 
                 pageLinks.push(
 
                     <div className='cf bb pb5 mv5 b--orange'>
-                      <figure className='fr w-100 w-60-m w-70-l ma0'>
-                        <img src={ prefixLink(image) } />
-                      </figure>
+                        <div className={`fr w-100 w-60-m w-70-l ma0 ${ headerBgColor }`}>
+                            <Link to={ prefixLink(page.path) }>
+                                <figure className="ma0 relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
+                                  <img src={ imagePath + image } alt='Newsflare Home Screen' className='absolute top-1'    style={{
+                                          left: '50%',
+                                          transform: 'translate(-50%, 0)'
+                                  }} />
+                                </figure>
+                            </Link>
+                      </div>
                         <article className='fl w-100 w-40-m w-30-ns pr3-ns'>
-                            <h2 className='f3 fw6 mt3 mt0-m mt5-l'>{ title }</h2>
-                            <p className='mb2 lh-copy' dangerouslySetInnerHTML={ {    __html: description} } />
+                            <h2 className='f2 fw6 mt2 mt0-ns mb3'>{ title }</h2>
+                            <h3 className='f4 fw3 lh-title mt0 i gray'>{ category }, { season }</h3>
+                            <p className='mb2 f4 lh-copy' dangerouslySetInnerHTML={ {    __html: description} } />
                             <Link className='fancy-link' to={ prefixLink(page.path) }> Learn more &raquo;</Link>
                         </article>
                     </div>
