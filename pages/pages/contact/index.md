@@ -4,12 +4,10 @@ layout: page
 path: "/contact"
 ---
 
-Lorem ipsum dolor sit amet, in summo tamquam mea, gubergren laboramus torquatos usu ne, magna rationibus sit eu. Id constituam honestatis pri, iracundia adversarium vel te. Per ferri aliquam impedit ex. Ei nec elitr nonumy vidisse, et qui fierent maluisset sadipscing, tincidunt vituperata delicatissimi te quo.
+<div class="lh-copy relative w-100 w-50-m w-75-l">
+<div class="measure-wide">
+A UX Designer with an e-commerce background for a Fast Track 100 company in Product Management and User Experience Design. Whilst working in a multidisciplinary team, researching, testing and delivering digital product across all areas of the business, I spent a large part of my time fulfilling the role of UX Designer and decided to hone my skill set in this area. Above and beyond my commercial UX Experience I've also trained at General Assembly which helped me consolidate my UX knowledge by applying it to a number of new briefs including one for Newsflare.
 
-Te est iisque volutpat, tacimates dissentias no ius. Ea eam quodsi omnium deseruisse, affert evertitur sententiae sea ei. Dicit minimum at quo, nulla ludus vivendum cu mea, audire reformidans mei id. In his deserunt tincidunt, cu stet soleat libris sit, et modus illum sea. Id usu ubique volumus deterruisset, mea ut viderer reformidans complectitur. Ignota meliore eu eam.
-
-Vix mazim ornatus in, populo causae mandamus cu mei, ut malis novum postulant duo. Pro tantas consulatu in, ei nullam labore detraxit sed. Ne nam wisi percipitur. Ea sint nonumy pri. Id mel graeco latine tacimates, eum no habeo laudem iriure, sea putent tritani accommodare id. Pro no rebum decore eripuit.
-
-Alia albucius pro ut. Mea ut ipsum dolor. Qui ea volumus blandit iudicabit, ad sed timeam nominati posidonium, mel ei meis ocurreret mnesarchum. Mei elitr senserit voluptatibus ad, te quod vivendo vix. Vis no perfecto abhorreant, cu appellantur repudiandae mei, at vix mnesarchum honestatis disputationi.
-
-Omnium utamur detraxit te pro, affert nominati has ea. Delectus platonem ius et. Cibo aperiam denique an duo, illud laudem constituam quo id. Inani civibus pertinacia nam an. Luptatum instructior sed at, an elit accommodare sit, vix ne nulla soluta.
+Exploring problems and putting the user at the centre of my work is something I am deeply passionate about. I thrive on finding solutions that are both creative and impactful, something I will continue to strive for in all areas of my work. In our ever increasing digital lives, I am excited to make a difference to people’s experiences within a cross functional and collaborative team.
+</div>
+</div>

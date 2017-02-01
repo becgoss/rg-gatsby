@@ -5,7 +5,7 @@ import { prefixLink } from 'gatsby-helpers'
 import access from 'safe-access'
 import { config } from 'config'
 import SiteHeader from '../SiteHeader'
-import '../../static/css/highlight.css'
+import SiteFooter from '../SiteFooter'
 import '../../static/css/slick.css'
 import '../../static/css/slick-theme.css'
 import $ from 'jquery';
@@ -27,23 +27,45 @@ class SitePost extends React.Component {
         const {route} = this.props
         const post = route.page.data
         const imagePath = post.image
+        const imageFormat = post.imageFormat
+        const bgSize = post.bgSize
 
         return (
             <div>
               <SiteHeader {...this.props}/>
-              <div className={`w-100 vh-75 dt relative overflow-hidden ${ post.headerBgColor || 'bg-light-gray' }`}>
-                <div className='dtc v-mid'>
-                  <header className={`ml6 ${ post.headerTextColor || 'near-black' }`}>
-                    <h1 className='f-headline lh-title fw6 mv0'>{ post.title }</h1>
-                    <h3 className='f6 fw3 lh-title mt0 i'>{ post.category }, { post.season }</h3>
-                    <p className="measure">{ post.description }</p>
-                  </header>
+              { imageFormat == 'aside' ? (
+                <div className={`w-100 vh-75 dt relative overflow-hidden bg-${ post.headerBgColor || 'bg-light-gray' }`}>
+                  <div className='dtc pt3 pt0-l v-top v-mid-l tc tl-l'>
+                    <header className={`ml6-l ${ post.headerTextColor || 'near-black' }`}>
+                      <h1 className='f1 f-headline-l lh-title fw6 mv0'>{ post.title }</h1>
+                      <h3 className='f6 fw3 lh-title mt0 i'>{ post.category }, { post.season }</h3>
+                      <p className="measure ph2 ph0-ns center mh0-l lh-copy">{ post.description }</p>
+                    </header>
+                  </div>
+                  <img src={ imagePath } alt={ post.title } className='absolute aside-image' />
                 </div>
-                <img src={ imagePath } alt={ post.title } className='absolute top-1 right-2' />
-              </div>
+              ) : (
+                <div className={`w-100 vh-75 dt relative cover-image tc overflow-hidden bg-${ post.headerBgColor || 'bg-light-gray' } ${bgSize}`}
+                  style={{
+                    backgroundImage: 'url(' + imagePath + ')',
+                    backgroundPosition: 'center center',
+                    backgroundRepeat: 'repeat-x'
+                  }}
+                  >
+                  <div className='dtc v-mid bg-black-50'>
+                    <header className={ post.headerTextColor || 'near-black' }>
+                      <h1 className='f1 f-headline-l lh-title fw6 mv0'>{ post.title }</h1>
+                      <h3 className='f6 fw3 lh-title mt0 i'>{ post.category }, { post.season }</h3>
+                      <p className="measure ph2 ph0-ns center lh-copy">{ post.description }</p>
+                    </header>
+                  </div>
+                </div>
+              )
+              }
               <main role='main' className='pa3 ph5-ns'>
                 <div className='lh-copy' dangerouslySetInnerHTML={ {    __html: post.body} } />
               </main>
+              <SiteFooter {...this.props}/>
             </div>
             );
     }
