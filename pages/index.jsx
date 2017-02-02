@@ -7,6 +7,7 @@ import access from 'safe-access'
 import { config } from 'config'
 import SitePost from '../components/SitePost'
 import SiteHeader from '../components/SiteHeader'
+import SiteFooter from '../components/SiteFooter'
 // import imageSrc from './articles/2015-05-01-hello-world/whats-in-the-fridge.jpg'
 
 class SiteIndex extends React.Component {
@@ -71,6 +72,7 @@ class SiteIndex extends React.Component {
                     { pageLinks }
                   </div>
               </main>
+              <SiteFooter/>
             </div>
               )
     }

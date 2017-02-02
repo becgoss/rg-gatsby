@@ -19,9 +19,9 @@ class SiteNav extends React.Component {
                     <span className='ttu tracked fw7 f2'>RG</span>
                 </Link>
                 <div className='dtc v-mid w-75 tr'>
-                    <Link className='link hover-washed-yellow white f6 f5-ns fw5 ttl small-caps tracked dib mr3 mr4-ns' to={prefixLink('/work/')}  activeClassName="current">Work</Link>
-                    <Link className='link hover-washed-yellow white f6 f5-ns fw5 ttl small-caps tracked dib mr3 mr4-ns' to={prefixLink('/about/')} activeClassName="current">About</Link>
-                    <Link className='link hover-washed-yellow white f6 f5-ns fw5 ttl small-caps tracked dib' to={prefixLink('/contact/')} activeClassName="current">Contact</Link>
+                    <Link className={`link hover-washed-yellow white ph1 f6 f5-ns fw5 ttl small-caps tracked dib mr3 mr4-ns ${isHome ? ('bb bw1 b--white') : ('')} `} to={prefixLink('/')} >Work</Link>
+                    <Link className='link hover-washed-yellow white ph1 f6 f5-ns fw5 ttl small-caps tracked dib mr3 mr4-ns' to={prefixLink('/about/')} activeClassName="bb bw1 b--white">About</Link>
+                    <Link className='link hover-washed-yellow white ph1 f6 f5-ns fw5 ttl small-caps tracked dib' to={prefixLink('/contact/')} activeClassName="bb bw1 b--white">Contact</Link>
                 </div>
             </nav>
             );
