@@ -134,7 +134,7 @@ We undertook a task analysis to ascertain the different tasks that needed to be 
   </div>
   <div class="fl w-100 w-50-l pl0-l pr2-l pb3">
     <h3 class="orange fw6 tc">Assignments/Missions:</h3>
-    <img class="border-box ba b--light-silver" src="./newsflare-user-flow-assignments.jpg" alt="Assignments flow" />
+    <img class="border-box ba b--light-silver" src="./Newsflare-User-Flow-Assignments.jpg" alt="Assignments flow" />
   </div>
   <div class="fl w-100 w-50-l pl2-l">
     <h3 class="orange fw6 tc">Upload a video:</h3>
@@ -214,13 +214,13 @@ When walking through the prototypes with various users it became clear that some
 <strong class="fw6">Assignments:</strong> In the current App, the assignments pages don’t have a call to action, we added “Start Filming” which could direct users to the Record function. Users found this term confusing, they wanted something more general so in the mid-fidelity this was changed to “Get Started”. In the hi-fidelity we also added “Upload a video from Library” and “Save” so that users could have an option of how to proceed. A big change that testing revealed with that people struggled with the term “Assignments” so after much testing we changed this area to “Missions”. Users felt that “Missions” was much less school like and a more inspiring term. The icon choice was changed to be inline with Google Material design, this meant that our users were much more familiar with the iconography, this also led to a change for the browse and missions sections, using the eye icon for browse and the camera icon for missions.
 </div>
 <figure class="mh0 mv3 ba b--light-silver">
-  <img class="border-box" src="./iterations-missions.jpg" alt="Task Analysis" />
+  <img class="border-box" src="./Iterations-missions.jpg" alt="Task Analysis" />
 </figure>
 <div class="f4 measure-wide center">
 <strong class="fw6">Upload:</strong> This was one of the areas that changed the most during testing. This section demands that the user input a lot of information and the initial feedback was that the tagging needed improving. Our users wanted the system to suggest tags or keywords based on what they had already inputted into the title and description fields, this way they could have a better understanding of what was expected of them. They also felt that there was too much information to input on one screen so in the hi-fidelity version we split this out into two stages; title and description first, followed by category and tags on the subsequent page. We also added in the functionality for users to change the cover image on the video, they were used to having this feature on other apps such as Snapchat and expected Newsflare to offer the same. This gave the users much more flexibility as to how their work was displayed, it was a very popular addition to the app.
 </div>
 <figure class="mh0 mv3 ba b--light-silver">
-  <img class="border-box" src="./iterations-upload.jpg" alt="Task Analysis" />
+  <img class="border-box" src="./Iterations-upload.jpg" alt="Task Analysis" />
 </figure>
 <div class="f4 measure-wide center">
 <h3 class="orange fw6">Design:</h3>

@@ -10,5 +10,4 @@ headerBgColor: "light-gray"
 headerTextColor: "white"
 imageFormat: "center"
 bgSize: "contain"
-
 ---
