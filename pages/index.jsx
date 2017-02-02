@@ -46,7 +46,7 @@ class SiteIndex extends React.Component {
                         <div className={`fr w-100 w-40-m w-70-l ma0 bg-${ headerBgColor }`}>
                           <Link to={ prefixLink(page.path) }>
                               <figure className="ma0 relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
-                                <img src={ imagePath + image } alt={ title } className='aspect-ratio--object' />
+                                <img src={ imagePath + image } alt={ title } className='aspect-ratio--object' style={{minHeight: '100%', height: 'auto'}} />
                               </figure>
                           </Link>
                         </div>
