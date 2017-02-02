@@ -37,6 +37,8 @@ Software used: Omingraffle, Photoshop, Sketch & Invision.
 <h2 class="orange fw6">The Insight & Research:</h2>
 Newsflare provided access to their current android app users, this was really crucial in gathering insights into how they are currently using the app and any problems that they have encountered. We also spoke to people who hadn’t seen the app before to get unbiased feedback on the functionality. Once we had all the feedback from interviews we turned these into an affinity map which highlighted the similarities in users experiences and gave a clear indication to the problems most users encountered with the android application.
 
+<blockquote class="f2 measure-narrow center lh-title i mid-gray bl bw2 pl4 border-box b--orange">“It could do with being a bit more user friendly.“<cite class="f6 db mt3 fs-normal orange">James, January 2017</cite></blockquote>
+
 A few key areas were highlighted during my interviews with key users:
 
 **Uploads:** “It can often take ages to upload and it quite often fails but gives no indication.”
