@@ -1,11 +1,11 @@
 ---
-title: "What's in the fridge"
+title: "Rapha Navigation"
 date: "2017-01-31T21:28:03.284Z"
 layout: post
 path: "/hi-folks/"
 category: "Case Study"
-description: "This project was about rapid prototyping. In one week, I researched, sketched, wireframed and prototyped a mobile application to help people to keep track of what they had in the fridge and the meals they could make within certain budgets."
-image: "./whats-in-the-fridge.jpg"
+description: "Looking at the information architecture of Rapha's navigation and designing a new structure which could include content and commerce."
+image: "./navigation-title-image.png"
 ---
 
 <div class="f4 measure-wide center">

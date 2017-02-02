@@ -49,8 +49,26 @@ A simple, easy to find and use filter that can evolve as we buildout more facets
 
 <div class="f4 measure-wide center">
 <h2 class="orange fw6">Testing & Iteration:</h2>
-We tested three versions of the desktop & mobile filters with staff and Rapha customers instore.
+We tested different versions of the desktop & mobile filters with staff and Rapha customers in-store, the response to the work was very positive - customers were happy to see that changes were being considered to the current filtering system. With the mobile sketches, users felt that the filters were far too long when each facet had a list format, this was changed to a grid layout to prevent needless scrolling. Users wanted keep the filters at the top of the page and have the products scroll underneath them, we changed the design to allow for a persistent filter option on both desktop and mobile.
+<figure class="mh0 mv3">
+  <img class="border-box" src="./Mobile-Filters-Iterations.jpg" alt="Filter Mobile Version" />
+</figure>
+I designed four desktop versions, one being "Sale Mode" which can be turning on during a sale period for easy access to size filtration. When testing the other three options it was clear that having the filters sit at the top didn't work for desktop, users were much more familiar with the filters on the left hand side. 
 
+**Sale time filters:**
+<figure class="mh0 mv3">
+  <img class="border-box" src="./Mac-Filter-Sale.jpg" alt="Filter Mobile Version" />
+</figure>
+</div>
+
+<div class="f4 measure-wide center">
+**Other versions:**
+</div>
+<figure class="mh0 mv3">
+  <img class="border-box" src="./TWO-Versions.jpg" alt="Filter Mobile Version" />
+</figure>
+
+<div class="f4 measure-wide center">
 <h2 class="orange fw6">Final Mobile Screens:</h2>
 </div>
 
@@ -62,5 +80,5 @@ We tested three versions of the desktop & mobile filters with staff and Rapha cu
 <h2 class="orange fw6">Final Desktop Screens:</h2>
 </div>
 <figure class="mh0 mv3">
-  <img class="border-box" src="./Transparent-Desktop-Filter-1.png" alt="Competitive Analysis" />
+  <img class="border-box" src="./Mac-Filter-final.jpg" alt="Competitive Analysis" />
 </figure>
