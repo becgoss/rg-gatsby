@@ -25,7 +25,7 @@ class SiteContact extends React.Component {
 
                   <figure className='fr w-20 mv4 mh0'>
                     <a href='ma&#105;lt&#111;&#58;&#104;e&#108;lo&#64;&#114;ebeccag&#37;6&#70;ss&#46;&#99;&#111;&#46;&#37;75k'
-                        className='dt w-100 br-100 aspect-ratio aspect-ratio--1x1 pb-100 bg-orange cover white tc f5 f4-ns fw4 mt3-ns link dim'>
+                        className='dt w-100 br-100 aspect-ratio aspect-ratio--1x1 bg-orange white tc f5 f4-ns fw4 mt3-ns link grow'>
                         <span className="absolute" style={{top: '50%', left: "50%", transform: 'translate(-50%, -50%)'}}>Email me</span>
                     </a>
                   </figure>

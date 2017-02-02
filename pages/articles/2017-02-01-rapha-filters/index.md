@@ -53,22 +53,27 @@ We tested different versions of the desktop & mobile filters with staff and Raph
 <figure class="mh0 mv3">
   <img class="border-box" src="./Mobile-Filters-Iterations.jpg" alt="Filter Mobile Version" />
 </figure>
-I designed four desktop versions, one being "Sale Mode" which can be turning on during a sale period for easy access to size filtration. When testing the other three options it was clear that having the filters sit at the top didn't work for desktop, users were much more familiar with the filters on the left hand side. 
+I designed four desktop versions, one being "Sale Mode" which can be turning on during a sale period for easy access to size filtration. When testing the other three options it was clear that having the filters sit at the top didn't work for desktop, users were much more familiar with the filters on the left hand side.
+<div class="tc">
 
 **Sale time filters:**
+
+</div>
 <figure class="mh0 mv3">
   <img class="border-box" src="./Mac-Filter-Sale.jpg" alt="Filter Mobile Version" />
 </figure>
 </div>
 
-<div class="f4 measure-wide center">
+<div class="f4 measure-wide center tc">
+
 **Other versions:**
+
 </div>
 <figure class="mh0 mv3">
   <img class="border-box" src="./TWO-Versions.jpg" alt="Filter Mobile Version" />
 </figure>
 
-<div class="f4 measure-wide center">
+<div class="f4 measure-wide center tc">
 <h2 class="orange fw6">Final Mobile Screens:</h2>
 </div>
 
@@ -76,7 +81,7 @@ I designed four desktop versions, one being "Sale Mode" which can be turning on 
   <img class="border-box" src="./Mobile-Filters-Final.jpg" alt="Filter Mobile Version" />
 </figure>
 
-<div class="f4 measure-wide center">
+<div class="f4 measure-wide center tc">
 <h2 class="orange fw6">Final Desktop Screens:</h2>
 </div>
 <figure class="mh0 mv3">

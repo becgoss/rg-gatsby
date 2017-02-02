@@ -20,7 +20,7 @@ class SiteHeader extends React.Component {
                   </div>
                   <figure className='fr w-20 dt mv4 mh0'>
                     <span
-                        className='dtc w-100 br-100 aspect-ratio aspect-ratio--1x1 pb-100 bg-orange cover'
+                        className='dtc w-100 br-100 aspect-ratio aspect-ratio--1x1 pb-100 bg-light-gray cover'
                         style={{
                             backgroundImage: 'url(' + profilePic + ')'
                         }}
