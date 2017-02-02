@@ -9,6 +9,6 @@ siteEmailUrl = "#"
 siteRssUrl = "#"
 siteVkUrl = "#"
 
-googleAnalyticsId = ""
+googleAnalyticsId = "UA-91320747-1"
 
 linkPrefix = "/"
