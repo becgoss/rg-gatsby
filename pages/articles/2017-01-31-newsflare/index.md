@@ -64,6 +64,52 @@ We looked at 6 different competitors, 3 direct competitors who occupy the same m
 <h2 class="orange fw6">Personas:</h2>
 From the user interviews, we were able to define three personas that typify Newsflare users. They are outlined below.
 
+</div>
+
+<div class="mv4 mv5-ns f4 cf">
+
+<figure class="mh0 mv3 fr w-third pl2 fl-ns w-50-ns pl0-ns pr3-m pr5-l border-box">
+  <img class="border-box" src="./Persona-Geoff.jpg" alt="Geoff, 35" />
+</figure>
+
+<h3 class="orange fw6 mb0">Geoff, 35 <span class="fw3 f4 ml2 gray">IT Consultant</span></h3>
+
+As a keen photographer and film maker, Geoff actively documents and shares his experiences through social media. Increasingly he has become a more active user of News are. He likes looking at what other people have produced and at the quality of their videos.
+
+<blockquote class="fw3 lh-copy i">“I love the outdoors and experiencing new places. I am a keen photographer and enjoy sharing my passion with others. I am always looking for new projects and News are provides assignments which can help guide my craft.”</blockquote>
+
+<div class="dt-ns dt--fixed-ns w-100 w-50-l fl">
+<div class="dtc-ns w-100 f5 pr1">
+
+**Behaviours**<br/>
+Typically will use social media to voice opinions on various subject matters he is interested in.
+
+He is excited by the opportunity of being recognised for his video work and it being seen globally.
+
+</div>
+<div class="dtc-ns w-100 f5 pr1 pl1">
+
+**Frustrations**<br/>
+Lengthy process of uploading his video content.
+
+Lack of guidance on how the News are process works. 
+
+</div>
+<div class="dtc-ns w-100 f5 pl1">
+
+**Goals**<br/>
+Wants to quickly upload his video content and get immediate feedback on his work.
+
+Being recognised for his video.
+
+Wants a quick payment turnaround. 
+
+</div>
+</div>
+
+</div>
+
+<div class="f4 measure-wide center">
 
 <h2 class="orange fw6">Mapping the journey:</h2>
 We undertook a task analysis to ascertain the different tasks that needed to be fulfilled in order for a new user to shoot a video, upload it to Newsflare and then make a sale. We also plotted the emotional state of the user whilst undertaking these tasks which is outlined in an experience map.
