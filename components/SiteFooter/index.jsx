@@ -5,6 +5,7 @@ import moment from 'moment'
 
 class SiteFooter extends React.Component {
     render() {
+        const {location} = this.props
         const isHome = location.pathname === prefixLink('/')
 
         return (

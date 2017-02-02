@@ -72,7 +72,7 @@ class SiteIndex extends React.Component {
                     { pageLinks }
                   </div>
               </main>
-              <SiteFooter/>
+              <SiteFooter {...this.props}/>
             </div>
               )
     }
