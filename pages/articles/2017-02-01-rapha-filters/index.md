@@ -5,6 +5,7 @@ layout: post
 path: "/rapha-filters/"
 category: "Case Study"
 season: "Summer 2016"
+homeHeaderBgColor: "duck-egg-green"
 headerBgColor: "light-gray"
 headerTextColor: "white"
 description: "Designing a new filter for shop and search pages on Rapha.cc, expanding on the current facets and making it clear and simple for users."
