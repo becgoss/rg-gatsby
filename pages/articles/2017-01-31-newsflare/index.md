@@ -62,7 +62,14 @@ We looked at 6 different competitors, 3 direct competitors who occupy the same m
 <div class="f4 measure-wide center">
 
 <h2 class="orange fw6">Personas:</h2>
-From the user interviews, we were able to define three personas that typify Newsflare users. They are outlined below.
+From the user interviews, we were able to define three personas that typify Newsflare users; Carol: a mum of two in Ireland, James: a student living and studing in London and Geoff: an IT Consultant from Portland USA. Whilst all three of these personas are Newsflares users, Geoff is someone who is going to use all the features of the app and be more interested in Assignments to progress his work. 
+
+Carol, 32, Stay at home mum, Ireland.  
+<blockquote class="f2 measure-narrow center lh-title i mid-gray bl bw2 pl4 border-box b--orange">“I recently started filming my kids and pets. My dog's really good at tricks so I film her on my mobile phone to show my friends and family. Newsflare contacted me after seeing one of my videos on YouTube.”<cite class="f6 db mt3 fs-normal orange">Carol, January 2017</cite></blockquote>
+
+James, 22, Student, London.
+<blockquote class="f2 measure-narrow center lh-title i mid-gray bl bw2 pl4 border-box b--orange">“I love going around town and spotting events or incidents that I see and capturing it on my phone immediately and sharing it with my friends.”<cite class="f6 db mt3 fs-normal orange">James, January 2017</cite></blockquote>
+
 
 </div>
 
@@ -254,7 +261,7 @@ Here is the finished prototype that was delivered to Newsflare on completion of 
 
 <div class="f4 measure-wide center">
 <h2 class="orange fw6">Outcome:</h2>
-	We designed a fully fleshed out prototype of the Android App, which addressed the issues originally laid out in the brief: upload etc….. but also looked at improving
+	We designed a fully fleshed out prototype of the Android App, which addressed the issues originally laid out in the brief, such as upload flow, recording function & sign-in process. We added multiple ways to browse content, an onboarding procress to help users understand Newsflare better and a better experience for users wishing to take on projects in the Missions section.
 
   <h2 class="orange fw6">Next steps:</h2>
   Whilst the product will solve the key user issues, if I had further funding I would propose the following next steps:

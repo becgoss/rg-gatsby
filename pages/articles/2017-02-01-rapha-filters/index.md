@@ -33,12 +33,11 @@ It was important to see how our competitors tackled filtering so we looked at 3 
 
 <div class="f4 measure-wide center">
 <h2 class="orange fw6">The Insight:</h2>
-80% of users who interact with the filter go on to complete a purchase but only 5% of total users interact with the filters. If we can increase the number of interactions we can increase conversion.
-
+We know that in the current format, filters are missed by most customers - less than 1% interact with them, with an incremental conversion rate of + 145%. If we increase the number of interactions we can the increase conversion rate. 
 
 </div>
 
-<blockquote class="f2 measure-narrow center lh-title i mid-gray bl bw2 pl4 border-box b--orange">“80% Big Long Statistic about something really insightful and clever.” <cite class="f6 db mt3 fs-normal orange">Rapha Google Analytics, June 2016</cite></blockquote>
+<blockquote class="f2 measure-narrow center lh-title i mid-gray bl bw2 pl4 border-box b--orange">“Less than 1% of current sessions include filter interactions” <cite class="f6 db mt3 fs-normal orange">Rapha Google Analytics, June 2016</cite></blockquote>
 
 <div class="f4 measure-wide center">
 
@@ -88,3 +87,9 @@ I designed four desktop versions, one being "Sale Mode" which can be turning on 
 <figure class="mh0 mv3">
   <img class="border-box" src="./Mac-Filter-final.jpg" alt="Competitive Analysis" />
 </figure>
+
+<div class="f4 measure-wide center">
+<h2 class="orange fw6">Outcome:</h2>
+<blockquote class="f2 measure-narrow center lh-title i mid-gray bl bw2 pl4 border-box b--orange">“Implementation of the Sale Filter saw engagment reach 60%”<cite class="f6 db mt3 fs-normal orange">Rapha Google Analytics, August 2016</cite></blockquote>
+After implementation, in an average month the sessions that included filter interaction had increased to 5%, this reached 60% during the sale period when using the sale - size only filter. We delivered a much improved filtering module that will be flexible enough to grow with the company and enable new facets to be added as and when the data is available. The user can see the number of results returned as they go through the filters, if no results are available they will not be able to proceed to apply the filter but, be prompted to change their selection. Once the filter has been applied, the results load without the whole page refreshing, a faster more streamlined experience for filtering products. 
+</div>
