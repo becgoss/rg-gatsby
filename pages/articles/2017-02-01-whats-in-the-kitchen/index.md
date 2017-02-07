@@ -7,7 +7,7 @@ category: "Case Study"
 season: "Winter 2016"
 headerBgColor: "washed-blue"
 headerTextColor: "white"
-description: "This project was about rapid prototyping. In one week, I researched, sketched, wireframed and prototyped a mobile application to help people to keep track of what they had in the fridge and the meals they could make within certain budgets."
+description: "This project was about rapid prototyping. In two weeks, I researched, sketched, wire-framed and prototyped a mobile application to help people to keep track of what they had in the fridge and the meals they could make within certain budgets."
 image: "./whats-in-the-fridge.jpg"
 imageFormat: "cover"
 bgSize: "cover"
@@ -68,7 +68,7 @@ After finishing the user flows and research with my users, I identified the foll
 <h2 class="orange fw6">Testing & Iterations:</h2>
 
 
-We tested lots..........
+I tested with various users, firstly with the initial screen sketches and then with a Marvel prototype. The response to the app was very encouraging and I was able to make changes based on user feedback. 
 
 <figure class="mh0 mv3">
   <img class="border-box" src="./fridge-testing-hands.jpg" alt="User Testing" />
@@ -80,7 +80,7 @@ The key changes made during testing were:
 
 2. Main Menu: Changed from a off-screen menu to a full screen grid, this made it much clearer for users to understand the options available to them.
 
-3. Favourites: Users wanted a way to add recipes to a saved list so a favourite function was added
+3. Favourites: Users wanted a way to add recipes to a saved list so a favourite function was added.
 
 </div>
 
@@ -89,14 +89,17 @@ The key changes made during testing were:
 </figure>
 
 <div class="f4 measure-wide center">
-After getting the inital feedback on the first set of screens I produced a second cleaner set to set about testing.
+After getting the initial feedback on the first set of screens I produced a second cleaner set to set about testing again, once I was confident with the layout and flow I proceeded into mid-fidelity and then visual design.
 
 <figure class="mh0 mv3">
   <img class="border-box" src="./fridge-initial-screens.jpg" alt="Competitive Analysis" />
 </figure>
 
-<h2 class="orange fw6">Design</h2>
-Say something about the icons and design choices
+<h2 class="orange fw6">Design:</h2>
+I decided to keep the design of the app simple, I wanted the images of food to standout and by using a white background and a strong sans-serif typeface I was able to create a clean style. I used a serif typeface for the bylines, ingredients and recipes, which gives a hierarchy of information for the user and is also easier to read when following a recipe. 
+
+When testing it became apparent that the icon choice needed further work. Although the icons were easy to understand and represented the sections as users would expect, they didn't sit so well together due to their line weight. I took the time to re-factor the icons to make them work more harmoniously as a group. I also introduced colour into the menu bar to highlight the area a user was in. 
+
 <figure class="mh0 mv3">
   <img class="border-box" src="./fridge-icons.jpg" alt="Competitive Analysis" />
 </figure>
@@ -107,3 +110,8 @@ Say something about the icons and design choices
 <figure class="mh0 mv6">
   <img class="border-box" src="./fridge-final-screens.jpg" alt="Competitive Analysis" />
 </figure>
+
+<div class="f4 measure-wide center">
+<h2 class="orange fw6">Outcome:</h2>
+A fun and friendly application which would allow users to create a virtual fridge to help them save money and waste less. They can view recipes based on what they have in the fridge and their desired level of spending, create shopping lists and save recipes using the favourites list. 
+
