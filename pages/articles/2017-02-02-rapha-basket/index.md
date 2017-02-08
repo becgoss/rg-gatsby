@@ -43,7 +43,7 @@ All testing for the Basket Summary was done in-house with the view to develop a 
 </div>
 <div class="cf mv5">
   <div class="fl w-100 w-50-m w-25-l border-box pa2">
-    <h4 class="orange tc">Stage 1</h4>
+    <h4 class="orange tc fw6">Stage 1</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box iphone-mask">
       <div class="overflow-y-scroll" style="padding-bottom: 177.77%; height: 0; cursor: ns-resize">
         <img class="mw-100" src="./basket-phone-stage-1.png" />
@@ -51,7 +51,7 @@ All testing for the Basket Summary was done in-house with the view to develop a 
     </figure>
   </div>
   <div class="fl w-100 w-50-m w-25-l border-box pa2">
-    <h4 class="orange tc">Stage 2</h4>
+    <h4 class="orange tc fw6">Stage 2</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box iphone-mask">
       <div class="overflow-y-scroll" style="padding-bottom: 177.77%; height: 0; cursor: ns-resize">
         <img class="mw-100" src="./basket-phone-stage-2.png" />
@@ -59,7 +59,7 @@ All testing for the Basket Summary was done in-house with the view to develop a 
     </figure>
   </div>
   <div class="fl w-100 w-50-m w-25-l border-box pa2">
-    <h4 class="orange tc">Stage 3</h4>
+    <h4 class="orange tc fw6">Stage 3</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box iphone-mask">
       <div class="overflow-y-scroll" style="padding-bottom: 177.77%; height: 0; cursor: ns-resize">
         <img class="mw-100" src="./basket-phone-stage-3.png" />
@@ -67,7 +67,7 @@ All testing for the Basket Summary was done in-house with the view to develop a 
     </figure>
   </div>
   <div class="fl w-100 w-50-m w-25-l border-box pa2">
-    <h4 class="orange tc">Stage 4</h4>
+    <h4 class="orange tc fw6">Stage 4</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box iphone-mask">
       <div class="overflow-y-scroll" style="padding-bottom: 177.77%; height: 0; cursor: ns-resize">
         <img class="mw-100" src="./basket-phone-stage-4.png" />
@@ -80,7 +80,7 @@ All testing for the Basket Summary was done in-house with the view to develop a 
 </div>
 <div class="cf mv5">
   <div class="fl w-100 border-box pb3 ph6">
-    <h4 class="orange tc">Stage 1</h4>
+    <h4 class="orange tc fw6">Stage 1</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
       <div class="overflow-y-scroll" style="padding-bottom: 75%; height: 0; cursor: ns-resize">
         <img class="mw-100" src="./basket-desktop-1.png" />
@@ -88,7 +88,7 @@ All testing for the Basket Summary was done in-house with the view to develop a 
     </figure>
   </div>
   <div class="fl w-100 w-50-l border-box pa2">
-    <h4 class="orange tc">Stage 2</h4>
+    <h4 class="orange tc fw6">Stage 2</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
       <div class="overflow-y-scroll" style="padding-bottom: 75%; height: 0; cursor: ns-resize">
         <img class="mw-100" src="./basket-desktop-1.png" />
@@ -96,7 +96,7 @@ All testing for the Basket Summary was done in-house with the view to develop a 
     </figure>
   </div>
   <div class="fl w-100 w-50-l border-box pa2">
-    <h4 class="orange tc">Stage 3</h4>
+    <h4 class="orange tc fw6">Stage 3</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
       <div class="overflow-y-scroll" style="padding-bottom: 75%; height: 0; cursor: ns-resize">
         <img class="mw-100" src="./basket-desktop-1.png" />
