@@ -70,8 +70,48 @@ With more and more people joining the cycling revolution we need our product cat
 <figure class="mh0 mv3">
   <img class="border-box" src="./Nav-Testing-Web.jpg" alt="Filter Mobile Version" />
 </figure>
+</div>
+
+<div class="dt dt--fixed w-100">
+  
+   <div class="dtc">
+   <figure class="mh0 mv3">
+  <img class="border-box" src="./Rapha-Nav-Desktop-01.png" alt="Filter Mobile Version" />
+</figure>
+</div>
+
+<div class="dtc">
+   <figure class="mh0 mv3">
+  <img class="border-box" src="./Rapha-Nav-Desktop-03.png" alt="Filter Mobile Version" />
+</figure>
+</div>
+
+<div class="dtc">
+   <figure class="mh0 mv3">
+  <img class="border-box" src="./Rapha-Nav-Desktop-03.png" alt="Filter Mobile Version" />
+</figure>
+</div>
+
+</div>
+
+<div class="f4 measure-wide center">
+<div class="dt dt--fixed w-100">
+<div class="dtc">
+	<figure class="mh0 mv3">
+  <img class="border-box" src="./Rapha-Nav-Mobile-07.png" alt="Filter Mobile Version" />
+	</figure>
+	</div>
+<div class="dtc">
+	<figure class="mh0 mv3">
+	<img class="border-box" src="./Rapha-Nav-Mobile-05.png" alt="Filter Mobile Version" />
+	</figure>
+	</div>
+
+</div>
+</div>
 
 
+<div class="f4 measure-wide center">
 <h2 class="orange fw6">Final Mobile Screens:</h2>
 
 
@@ -80,7 +120,6 @@ With more and more people joining the cycling revolution we need our product cat
 
 <h2 class="orange fw6">Outcome:</h2>
 We have three navigations that can be developed and multi-variant tested on the live site.
-
 </div>
 
 
