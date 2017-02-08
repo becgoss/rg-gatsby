@@ -11,7 +11,7 @@ module.exports = React.createClass({
     },
     render() {
         const {body, route} = this.props
-        const {title} = Helmet.rewind()
+        const head = Helmet.rewind()
         let css
         if (process.env.NODE_ENV === 'production') {
             css = <style dangerouslySetInnerHTML={ {    __html: require('!raw!./public/styles.css')} } />
@@ -23,7 +23,8 @@ module.exports = React.createClass({
               <meta charSet="utf-8" />
               <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
               <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=5.0" />
-              { title.toComponent() }
+              { head.title.toComponent() }
+              { head.meta.toComponent() }
               { css }
             </head>
             <body className="avenir black">

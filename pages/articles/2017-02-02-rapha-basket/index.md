@@ -91,7 +91,7 @@ All testing for the Basket Summary was done in-house with the view to develop a 
     <h4 class="orange tc fw6">Stage 2</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
       <div class="overflow-y-scroll" style="padding-bottom: 75%; height: 0; cursor: ns-resize">
-        <img class="mw-100" src="./basket-desktop-1.png" />
+        <img class="mw-100" src="./basket-desktop-2.png" />
       </div>
     </figure>
   </div>
@@ -99,7 +99,7 @@ All testing for the Basket Summary was done in-house with the view to develop a 
     <h4 class="orange tc fw6">Stage 3</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
       <div class="overflow-y-scroll" style="padding-bottom: 75%; height: 0; cursor: ns-resize">
-        <img class="mw-100" src="./basket-desktop-1.png" />
+        <img class="mw-100" src="./basket-desktop-3.png" />
       </div>
     </figure>
   </div>
