@@ -75,7 +75,5 @@ We have three navigations that can be developed and multi-variant tested on the 
 </div>
 
 
-<figure class="mh0 mv3">
-  <img class="border-box" src="./Mobile-Filters-Final.jpg" alt="Filter Mobile Version" />
-</figure>
+
 
