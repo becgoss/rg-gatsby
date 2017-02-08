@@ -79,7 +79,7 @@ All testing for the Basket Summary was done in-house with the view to develop a 
   <h2 class="orange fw6">Final Desktop Screen:</h2>
 </div>
 <div class="cf mv5">
-  <div class="fl w-100 border-box pb3 ph6">
+  <div class="fl w-100 border-box pb3 ph6-l">
     <h4 class="orange tc fw6">Stage 1</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
       <div class="overflow-y-scroll" style="padding-bottom: 75%; height: 0; cursor: ns-resize">

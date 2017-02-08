@@ -156,8 +156,34 @@ With more and more people joining the cycling revolution we need our product cat
 </div>
 <div class="f4 measure-wide center">
 <h2 class="orange fw6">Final Desktop Screen:</h2>
-
-
+</div>
+<div class="cf mv5">
+  <div class="fl w-100 border-box pb3 ph6-l">
+    <h4 class="orange tc fw6">Stage 1</h4>
+    <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
+      <div class="overflow-hidden" style="padding-bottom: 75%; height: 0;">
+        <img class="mw-100" src="./nav-desktop-1.png" />
+      </div>
+    </figure>
+  </div>
+  <div class="fl w-100 w-50-l border-box pa2">
+    <h4 class="orange tc fw6">Stage 2</h4>
+    <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
+      <div class="overflow-hidden" style="padding-bottom: 75%; height: 0;">
+        <img class="mw-100" src="./nav-desktop-2.png" />
+      </div>
+    </figure>
+  </div>
+  <div class="fl w-100 w-50-l border-box pa2">
+    <h4 class="orange tc fw6">Stage 3</h4>
+    <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
+      <div class="overflow-hidden" style="padding-bottom: 75%; height: 0;">
+        <img class="mw-100" src="./nav-desktop-3.png" />
+      </div>
+    </figure>
+  </div>
+</div>
+<div class="f4 measure-wide center">
 <h2 class="orange fw6">Outcome:</h2>
 We have three navigations that can be developed and multi-variant tested on the live site.
 </div>
