@@ -133,6 +133,10 @@
   max-width: 16em;
 }
 
+@media screen and (min-width: 30em) {
+
+}
+
 @media screen and (min-width: 60em) {
   .aside-image {
     top: 2em;
@@ -147,4 +151,43 @@
     top: 1em;
     max-width: 32em;
   }
+}
+
+
+.ipad-mask {
+    border-left-width: 4rem;
+    border-right-width: 4rem;
+}
+
+.ipad-mask:before {
+    background-color: #eee;
+    border: 1px solid #eee;
+    border-top-color: #e1e1e1;
+    border-left-color: #e1e1e1;
+    border-radius: .5em;
+    box-sizing: border-box;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: -2em;
+    transform: translate(0, -50%);
+    width: .5em;
+    height: 3.5em;
+}
+.ipad-mask:after {
+    border: .125em solid #eee;
+    border-top-color: #e1e1e1;
+    border-left-color: #e1e1e1;
+    border-radius: 100%;
+    box-sizing: border-box;
+    content: "";
+    display: block;
+    position: absolute;
+    margin-left: -1.25em;
+    right: -3.25em;
+    top: 50%;
+    width: 2.5em;
+    height: 2.5em;
+    transform: translate(0, -50%);
 }

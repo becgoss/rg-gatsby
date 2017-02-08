@@ -31,33 +31,31 @@ class SiteIndex extends React.Component {
                 pageLinks.push(
 
                     <div className='cf bb pb5 mv5 b--orange'>
+                      <Link to={ prefixLink(page.path) }>
                       { imageFormat == 'aside' ? (
                         <div className={`fr w-100 w-40-m w-70-l ma0 bg-${ headerBgColor }`}>
-                            <Link to={ prefixLink(page.path) }>
                                 <figure className="ma0 relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
                                   <img src={ imagePath + image } alt={ title } className='absolute top-1' style={{
                                           left: '50%',
                                           transform: 'translate(-50%, 0)'
                                   }} />
                                 </figure>
-                            </Link>
                         </div>
                         ) : (
                         <div className={`fr w-100 w-40-m w-70-l ma0 bg-${ headerBgColor }`}>
-                          <Link to={ prefixLink(page.path) }>
                               <figure className="ma0 relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
                                 <img src={ imagePath + image } alt={ title } className='aspect-ratio--object' style={{minHeight: '100%', height: 'auto'}} />
                               </figure>
-                          </Link>
                         </div>
                         )
                       }
                         <article className='fl w-100 w-60-m w-30-l pr3-ns mt3 mt0-ns'>
-                            <h2 className='f2 fw6 mt2 mt0-ns mb3'>{ title }</h2>
+                            <h2 className='orange f2 fw6 mt2 mt0-ns mb3'>{ title }</h2>
                             <h3 className='f4 fw3 lh-title mt0 i gray'>{ category }, { season }</h3>
-                            <p className='mb2 f4 lh-copy' dangerouslySetInnerHTML={ {    __html: description} } />
-                            <Link className='fancy-link' to={ prefixLink(page.path) }> Learn more &raquo;</Link>
+                            <p className='mb2 f4 lh-copy near-black' dangerouslySetInnerHTML={ {    __html: description} } />
+                            <span className="orange bb bw1">Learn more &raquo;</span>
                         </article>
+                      </Link>
                     </div>
                 )
             }
