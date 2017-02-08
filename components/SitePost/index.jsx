@@ -6,10 +6,6 @@ import access from 'safe-access'
 import { config } from 'config'
 import SiteHeader from '../SiteHeader'
 import SiteFooter from '../SiteFooter'
-import '../../static/css/slick.css'
-import '../../static/css/slick-theme.css'
-import $ from 'jquery';
-import '../../static/js/slick.min.js'
 
 class SitePost extends React.Component {
     componentDidMount() {
