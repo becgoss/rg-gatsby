@@ -1,8 +1,0 @@
-.DS_Store
-node_modules/
-public
-
-.gatsby-context.js
-pages/.manifest
-.idea
-gatsby-starter-lumen.iml
