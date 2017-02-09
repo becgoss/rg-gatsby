@@ -78,21 +78,21 @@ With more and more people joining the cycling revolution we need our product cat
    <div class="dtc">
    <h4 class="tc fw6">Stage 1</h4>
    <figure class="mh0 mv3">
-  <img class="border-box" src="./Rapha-Nav-Desktop-01.png" alt="Filter Mobile Version" />
+  <img class="border-box" src="./Rapha-Nav-Desktop-01a.png" alt="Filter Mobile Version" />
 </figure>
 </div>
 
 <div class="dtc">
   <h4 class="tc fw6">Stage 2</h4>
    <figure class="mh0 mv3">
-  <img class="border-box" src="./Rapha-Nav-Desktop-03.png" alt="Filter Mobile Version" />
+  <img class="border-box" src="./Rapha-Nav-Desktop-03a.png" alt="Filter Mobile Version" />
 </figure>
 </div>
 
 <div class="dtc">
   <h4 class="tc fw6">Stage 3</h4>
    <figure class="mh0 mv3">
-  <img class="border-box" src="./Rapha-Nav-Desktop-03.png" alt="Filter Mobile Version" />
+  <img class="border-box" src="./Rapha-Nav-Desktop-03a.png" alt="Filter Mobile Version" />
 </figure>
 </div>
 
@@ -104,14 +104,14 @@ With more and more people joining the cycling revolution we need our product cat
   <h4 class="tc mb2 fw6">Stage 1</h4>
   <p class="tc f5 ma0">Hello my name is jonathan francis heslop</p>
 	<figure class="mh0 mv3">
-  <img class="border-box" src="./Rapha-Nav-Mobile-07.png" alt="Filter Mobile Version" />
+  <img class="border-box" src="./Rapha-Nav-Mobile-07a.png" alt="Filter Mobile Version" />
 	</figure>
 	</div>
 <div class="dtc">
   <h4 class="tc mb2 fw6">Stage 2</h4>
   <p class="tc f5 ma0">Hello my name is jonathan francis heslop</p>
 	<figure class="mh0 mv3">
-	<img class="border-box" src="./Rapha-Nav-Mobile-05.png" alt="Filter Mobile Version" />
+	<img class="border-box" src="./Rapha-Nav-Mobile-05a.png" alt="Filter Mobile Version" />
 	</figure>
 	</div>
 
