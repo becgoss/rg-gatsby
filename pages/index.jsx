@@ -35,7 +35,7 @@ class SiteIndex extends React.Component {
                       { imageFormat == 'aside' ? (
                         <div className={`fr w-100 w-40-m w-70-l ma0 bg-${ headerBgColor }`}>
                                 <figure className="ma0 relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
-                                  <img src={ imagePath + image } alt={ title } className='absolute top-1' style={{
+                                  <img src={ prefixLink(imagePath + image) } alt={ title } className='absolute top-1' style={{
                                           left: '50%',
                                           transform: 'translate(-50%, 0)'
                                   }} />
@@ -44,7 +44,7 @@ class SiteIndex extends React.Component {
                         ) : (
                         <div className={`fr w-100 w-40-m w-70-l ma0 bg-${ headerBgColor }`}>
                               <figure className="ma0 relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
-                                <img src={ imagePath + image } alt={ title } className='aspect-ratio--object' style={{minHeight: '100%', height: 'auto'}} />
+                                <img src={ prefixLink(imagePath + image) } alt={ title } className='aspect-ratio--object' style={{minHeight: '100%', height: 'auto'}} />
                               </figure>
                         </div>
                         )
