@@ -78,33 +78,21 @@ With more and more people joining the cycling revolution we need our product cat
    <div class="dtc">
    <h4 class="tc fw6">Stage 1</h4>
    <figure class="mh0 mv3">
-<<<<<<< HEAD
-  <img class="border-box" src="./Rapha-Nav-Desktop-01.PNG" alt="Filter Mobile Version" />
-=======
-  <img class="border-box" src="./Rapha-Nav-Desktop-01a.png" alt="Filter Mobile Version" />
->>>>>>> d8641b4051024db74e5d9eb6ed9aae3a553a9282
+   <img class="border-box" src="./Rapha-Nav-Desktop-01a.png" alt="Filter Mobile Version" />
 </figure>
 </div>
 
 <div class="dtc">
   <h4 class="tc fw6">Stage 2</h4>
    <figure class="mh0 mv3">
-<<<<<<< HEAD
-  <img class="border-box" src="./Rapha-Nav-Desktop-03.PNG" alt="Filter Mobile Version" />
-=======
   <img class="border-box" src="./Rapha-Nav-Desktop-03a.png" alt="Filter Mobile Version" />
->>>>>>> d8641b4051024db74e5d9eb6ed9aae3a553a9282
 </figure>
 </div>
 
 <div class="dtc">
   <h4 class="tc fw6">Stage 3</h4>
    <figure class="mh0 mv3">
-<<<<<<< HEAD
-  <img class="border-box" src="./Rapha-Nav-Desktop-03.PNG" alt="Filter Mobile Version" />
-=======
   <img class="border-box" src="./Rapha-Nav-Desktop-03a.png" alt="Filter Mobile Version" />
->>>>>>> d8641b4051024db74e5d9eb6ed9aae3a553a9282
 </figure>
 </div>
 
@@ -114,24 +102,16 @@ With more and more people joining the cycling revolution we need our product cat
 <div class="dt dt--fixed w-100">
 <div class="dtc">
   <h4 class="tc mb2 fw6">Stage 1</h4>
-  <p class="tc f5 ma0">Hello my name is jonathan francis heslop</p>
+  <p class="tc f5 ma0">Mobile nav with one column</p>
 	<figure class="mh0 mv3">
-<<<<<<< HEAD
-  <img class="border-box" src="./Rapha-Nav-Mobile-07.PNG" alt="Filter Mobile Version" />
-=======
-  <img class="border-box" src="./Rapha-Nav-Mobile-07a.png" alt="Filter Mobile Version" />
->>>>>>> d8641b4051024db74e5d9eb6ed9aae3a553a9282
+    <img class="border-box" src="./Rapha-Nav-Mobile-07a.png" alt="Filter Mobile Version" />
 	</figure>
 	</div>
 <div class="dtc">
   <h4 class="tc mb2 fw6">Stage 2</h4>
-  <p class="tc f5 ma0">Hello my name is jonathan francis heslop</p>
+  <p class="tc f5 ma0">Mobile nav with two columns</p>
 	<figure class="mh0 mv3">
-<<<<<<< HEAD
-	<img class="border-box" src="./Rapha-Nav-Mobile-05.PNG" alt="Filter Mobile Version" />
-=======
 	<img class="border-box" src="./Rapha-Nav-Mobile-05a.png" alt="Filter Mobile Version" />
->>>>>>> d8641b4051024db74e5d9eb6ed9aae3a553a9282
 	</figure>
 	</div>
 
