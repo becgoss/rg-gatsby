@@ -8,17 +8,6 @@ import SiteHeader from '../SiteHeader'
 import SiteFooter from '../SiteFooter'
 
 class SitePost extends React.Component {
-    componentDidMount() {
-      $('.slick-slider').slick({
-          arrows: false,
-          autoplay: true,
-          autoplaySpeed: 5000,
-          dots: true,
-          fade: true,
-          infinite: true
-      });
-    }
-
     render() {
         const {route} = this.props
         const post = route.page.data

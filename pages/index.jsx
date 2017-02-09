@@ -66,7 +66,7 @@ class SiteIndex extends React.Component {
               <Helmet
                   title={ config.siteTitle }
                   meta={[
-                      { name: 'description', content: config.siteDescr },
+                      { name: 'description', content: config.siteDescription },
                       { property: 'og:url', content: config.siteURL },
                       { property: 'og:title', content: config.siteTitle },
                       { property: 'og:description', content: config.siteMetaDescription },
