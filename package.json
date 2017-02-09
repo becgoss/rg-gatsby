@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
-  "name": "gatsby-starter-lumen",
-  "description": "Simple starter for Gatsby",
+  "name": "rg-gatsby",
+  "description": "Portfolio of Rebecca Goss on Gatsby",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
@@ -16,10 +16,9 @@
   },
   "keywords": [
     "gatsby",
-    "lumen",
-    "starter"
+    "UX"
   ],
-  "author": "Alexander Shelepenok <a.shelepenok@gmail.com>",
+  "author": "Jon Heslop <jon@jonheslop.com>",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
