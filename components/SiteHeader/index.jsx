@@ -3,7 +3,7 @@ import { RouteHandler, Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
 import SiteNav from '../SiteNav'
-import profilePic from '../../pages/fake-shoulder-bw.jpg'
+import profilePic from '../../pages/rebecca-goss.jpg'
 
 class SiteHeader extends React.Component {
     render() {
