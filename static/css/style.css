@@ -191,3 +191,21 @@
     height: 2.5em;
     transform: translate(0, -50%);
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
+    font-weight: 600;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #ff6300;
+}

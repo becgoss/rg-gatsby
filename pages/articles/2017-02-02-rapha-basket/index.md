@@ -20,7 +20,7 @@ bgSize: "contain"
 Revisit the Basket Summary page design, look at the information that is currently displayed, what is useful for our customers? Hierarchy of information, what do most people want to know? Calls to action, are these clear? Summary of basket content, how is this displayed on mobile and can we optimise it further?
 
 <h2 class="orange fw6">The Problem:</h2>
-The current Basket Summary page is a exit point for X% of visitors, improving this bounce rate will help increase conversion. We know the page has some irrelevant information for users and could have clearer calls to action about the fold, especially when viewing on a mobile device - the basket summary can be very long and the CTA is right at the bottom of the screen.
+The current Basket Summary page is a exit point for 15% of visitors and has a bounce rate of 42% which is mostly driven from abandoned cart emails, improving this bounce rate will help increase conversion. We know the page has some irrelevant information for users and could have clearer calls to action about the fold, especially when viewing on a mobile device - the basket summary can be very long and the CTA is right at the bottom of the screen.
 
 
 <h2 class="orange fw6">The Insight:</h2>
