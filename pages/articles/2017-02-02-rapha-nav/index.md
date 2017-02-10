@@ -70,9 +70,9 @@ With more and more people joining the cycling revolution we need our product cat
 <figure class="mh0 mv3">
   <img class="border-box" src="./Nav-Testing-Web.jpg" alt="Filter Mobile Version" />
 </figure>
-</div>
-Testing initially took place with Rapha staff as we wanted to get the first set of sketches more refined before showing customers. The first iteration showed product categories broken down by type with the addition of multiple content slots to be used for highlighting offers or featured stories. This version was overwhelming, too much change & too many options were confusing so this was paired back considerably in the second iteration. After this feedback the design lead with the first column showing highlighted products or content with text links and then had the break down of products by type. The version was much easier for users to understand but still gave room for promoting content or products, iteration 3 was the same but using one content slot for featured content. Both iteration 2 and 3 were well received so we decided to create both versions for high-fidelity testing, with the view that they could both be used depending on marketing and merchandising needs at any given time. During testing it became apparent that all the primary navigation elements should behave in the same way. Currently we have a mixture of drop down and static elements, most feedback pointed to having all navigation elements as drop-downs to give consistency for users and also more flexibility for the business. 
 
+Testing initially took place with Rapha staff as we wanted to get the first set of sketches more refined before showing customers. The first iteration showed product categories broken down by type with the addition of multiple content slots to be used for highlighting offers or featured stories. This version was overwhelming, too much change & too many options were confusing so this was paired back considerably in the second iteration. After this feedback the design lead with the first column showing highlighted products or content with text links and then had the break down of products by type. The version was much easier for users to understand but still gave room for promoting content or products, iteration 3 was the same but using one content slot for featured content. Both iteration 2 and 3 were well received so we decided to create both versions for high-fidelity testing, with the view that they could both be used depending on marketing and merchandising needs at any given time. During testing it became apparent that all the primary navigation elements should behave in the same way. Currently we have a mixture of drop down and static elements, most feedback pointed to having all navigation elements as drop-downs to give consistency for users and also more flexibility for the business. 
+</div>
 <div class="dt dt--fixed w-100">
 
    <div class="dtc">
@@ -179,7 +179,7 @@ With the mobile navigation we developed 5 different hi-fidelity versions and cre
     <h4 class="orange tc fw6">Design 3</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
       <div class="overflow-hidden" style="padding-bottom: 75%; height: 0;">
-        <img class="mw-100" src="./Rapha-Nav-Desktop-03.PNG" />
+        <img class="mw-100" src="./nav-desktop-3.png" />
       </div>
     </figure>
   </div>
