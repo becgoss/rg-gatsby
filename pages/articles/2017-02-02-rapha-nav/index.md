@@ -32,7 +32,7 @@ First off was to carry out a card sorting exercise, we got users to sort product
   <img class="border-box" src="./Card-Sorting.jpg" alt="Filter Mobile Version" />
 </figure>
 
-We used Optimal Sort to perform a Treejacking exercise, this allowed us to set up a navigation heirachy and then ask users to perform various tasks, such as "If you wanted to buy a Jersey, where would you look?" This then showed us where our users expected to find items and gave us a lot of insight into the problem areas.
+We used Optimal Sort to perform a Tree Testing exercise, this allowed us to set up a navigation heirachy and then ask users to perform various tasks, such as "If you wanted to buy a Jersey, where would you look?" This then showed us where our users expected to find items and gave us a lot of insight into the problem areas.
 
 **"Where would you expect to find an Essentials Case?"**
 </div>
@@ -41,7 +41,7 @@ We used Optimal Sort to perform a Treejacking exercise, this allowed us to set u
   <img class="border-box" src="./Pie-Navigation-Essentials-Case.png" alt="Filter Mobile Version" />
 </figure>
 <div class="f4 measure-wide center">
-The correct answer for this is in Bags & Leather goods, only X users got this correct.
+The correct answer for this is in Bags & Leather goods, only 49 users out of 119 got this correct.
 
 **"Navigate to the section where you might buy a pair of Leg Warmers"**
 </div>
@@ -50,7 +50,7 @@ The correct answer for this is in Bags & Leather goods, only X users got this co
   <img class="border-box" src="./Pie-Navigation-Leg-Warmers.png" alt="Filter Mobile Version" />
 </figure>
 <div class="f4 measure-wide center">
-Leg Warmers live in "Riding Accessories" this seemed to be an area of great confusion for users with only X getting the correct path. The term is much too broad and encompasses too much, we need to address this and consider splitting out various types of items into their own headings.
+Leg Warmers live in "Riding Accessories" this seemed to be an area of great confusion for users with 78 out off 119 users getting the correct path. The term is much too broad and encompasses too much, we need to address this and consider splitting out various types of items into their own headings.
 
 **"If you wanted to attend a Rapha Event or Ride, where would you find out more?"**
 </div>
@@ -59,7 +59,7 @@ Leg Warmers live in "Riding Accessories" this seemed to be an area of great conf
   <img class="border-box" src="./Pie-Navigation-Events.png" alt="Filter Mobile Version" />
 </figure>
 <div class="f4 measure-wide center">
-Rapha host a lot of events and also regular rides which are free for anyone to attend. These are a great way of people interacting with the brand beyond the website and a really important part of what we do, this task really highlights that people don't know where to look and we could do a much better job at surfacing the information.
+Rapha host a lot of events and also regular rides which are free for anyone to attend. These are a great way of people interacting with the brand beyond the website and a really important part of what we do, this task really highlights that people don't know where to look, only 34 out of 119 users got the correct path.
 
 
  <h2 class="orange fw6">The Idea:</h2>
@@ -67,32 +67,32 @@ With more and more people joining the cycling revolution we need our product cat
 
 
 <h2 class="orange fw6">Testing & Iteration:</h2>
-
 <figure class="mh0 mv3">
   <img class="border-box" src="./Nav-Testing-Web.jpg" alt="Filter Mobile Version" />
 </figure>
 </div>
+Testing initially took place with Rapha staff as we wanted to get the first set of sketches more refined before showing customers. The first iteration showed product categories broken down by type with the addition of multiple content slots to be used for highlighting offers or featured stories. This version was overwhelming, too much change & too many options were confusing so this was paired back considerably in the second iteration. After this feedback the design lead with the first column showing highlighted products or content with text links and then had the break down of products by type. The version was much easier for users to understand but still gave room for promoting content or products, iteration 3 was the same but using one content slot for featured content. Both iteration 2 and 3 were well received so we decided to create both versions for high-fidelity testing, with the view that they could both be used depending on marketing and merchandising needs at any given time. During testing it became apparent that all the primary navigation elements should behave in the same way. Currently we have a mixture of drop down and static elements, most feedback pointed to having all navigation elements as drop-downs to give consistency for users and also more flexibility for the business. 
 
 <div class="dt dt--fixed w-100">
 
    <div class="dtc">
-   <h4 class="tc fw6">Stage 1</h4>
+   <h4 class="tc fw6">Iteration 1</h4>
    <figure class="mh0 mv3">
-   <img class="border-box" src="./Rapha-Nav-Desktop-01a.png" alt="Filter Mobile Version" />
+   <img class="border-box" src="./Rapha-Nav-Desktop-03a.png" alt="Filter Mobile Version" />
 </figure>
 </div>
 
 <div class="dtc">
-  <h4 class="tc fw6">Stage 2</h4>
+  <h4 class="tc fw6">Iteration 2</h4>
    <figure class="mh0 mv3">
-  <img class="border-box" src="./Rapha-Nav-Desktop-03a.png" alt="Filter Mobile Version" />
+  <img class="border-box" src="./Rapha-Nav-Desktop-01a.png" alt="Filter Mobile Version" />
 </figure>
 </div>
 
 <div class="dtc">
-  <h4 class="tc fw6">Stage 3</h4>
+  <h4 class="tc fw6">Iteration 3</h4>
    <figure class="mh0 mv3">
-  <img class="border-box" src="./Rapha-Nav-Desktop-03a.png" alt="Filter Mobile Version" />
+  <img class="border-box" src="./Rapha-Nav-Desktop-02a.png" alt="Filter Mobile Version" />
 </figure>
 </div>
 
@@ -101,14 +101,14 @@ With more and more people joining the cycling revolution we need our product cat
 <div class="f4 measure-wide center">
 <div class="dt dt--fixed w-100">
 <div class="dtc">
-  <h4 class="tc mb2 fw6">Stage 1</h4>
+  <h4 class="tc mb2 fw6">Design 1</h4>
   <p class="tc f5 ma0">Mobile nav with one column</p>
 	<figure class="mh0 mv3">
     <img class="border-box" src="./Rapha-Nav-Mobile-07a.png" alt="Filter Mobile Version" />
 	</figure>
 	</div>
 <div class="dtc">
-  <h4 class="tc mb2 fw6">Stage 2</h4>
+  <h4 class="tc mb2 fw6">Design 2</h4>
   <p class="tc f5 ma0">Mobile nav with two columns</p>
 	<figure class="mh0 mv3">
 	<img class="border-box" src="./Rapha-Nav-Mobile-05a.png" alt="Filter Mobile Version" />
@@ -120,35 +120,36 @@ With more and more people joining the cycling revolution we need our product cat
 
 
 <div class="f4 measure-wide center">
-<h2 class="orange fw6">Final Mobile Screens:</h2>
+<h2 class="orange fw6">Mobile Screens:</h2>
+With the mobile navigation we developed 5 different hi-fidelity versions and created prototypes to be tested in store. Customers were really excited to see new developments on the site and get the opportunity to be involved. Designs 2 and 4 were the best performing during testing on mobile due to the simplicity and clarity of the designs. Customers really took to the reorganisation of product categories using the terms Tops, Bottoms etc. The reaction was split between designs 2 and 4, leading us to the decision to develop both so that they could be multi-variant tested on the live site. 
 </div>
 <div class="cf mv5">
   <div class="fl w-100 w-third-m w-20-l border-box pa2">
-    <h4 class="orange tc fw6">Stage 1</h4>
+    <h4 class="orange tc fw6">Design 1</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box iphone-mask">
       <img class="mw-100" src="./nav-1.gif" />
     </figure>
   </div>
   <div class="fl w-100 w-third-m w-20-l border-box pa2">
-    <h4 class="orange tc fw6">Stage 2</h4>
+    <h4 class="orange tc fw6">Design 2</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box iphone-mask">
       <img class="w-100" src="./nav-2.gif" />
     </figure>
   </div>
   <div class="fl w-100 w-third-m w-20-l border-box pa2">
-    <h4 class="orange tc fw6">Stage 3</h4>
+    <h4 class="orange tc fw6">Design 3</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box iphone-mask">
       <img class="mw-100" src="./nav-3.gif" />
     </figure>
   </div>
   <div class="fl w-100 w-50-m w-20-l border-box pa2">
-    <h4 class="orange tc fw6">Stage 4</h4>
+    <h4 class="orange tc fw6">Design 4</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box iphone-mask">
       <img class="mw-100" src="./nav-4.gif" />
     </figure>
   </div>
   <div class="fl w-100 w-50-m w-20-l border-box pa2">
-    <h4 class="orange tc fw6">Stage 4</h4>
+    <h4 class="orange tc fw6">Design 5</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box iphone-mask">
       <img class="mw-100" src="./nav-5.gif" />
     </figure>
@@ -159,7 +160,7 @@ With more and more people joining the cycling revolution we need our product cat
 </div>
 <div class="cf mv5">
   <div class="fl w-100 border-box pb3 ph6-l">
-    <h4 class="orange tc fw6">Stage 1</h4>
+    <h4 class="orange tc fw6">Design 1</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
       <div class="overflow-hidden" style="padding-bottom: 75%; height: 0;">
         <img class="mw-100" src="./nav-desktop-1.png" />
@@ -167,7 +168,7 @@ With more and more people joining the cycling revolution we need our product cat
     </figure>
   </div>
   <div class="fl w-100 w-50-l border-box pa2">
-    <h4 class="orange tc fw6">Stage 2</h4>
+    <h4 class="orange tc fw6">Design 2</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
       <div class="overflow-hidden" style="padding-bottom: 75%; height: 0;">
         <img class="mw-100" src="./nav-desktop-2.png" />
@@ -175,7 +176,7 @@ With more and more people joining the cycling revolution we need our product cat
     </figure>
   </div>
   <div class="fl w-100 w-50-l border-box pa2">
-    <h4 class="orange tc fw6">Stage 3</h4>
+    <h4 class="orange tc fw6">Design 3</h4>
     <figure class="fl w-100 ma0 mb4 pa0 relative ba bw4 b--white br4 shadow-4 border-box ipad-mask">
       <div class="overflow-hidden" style="padding-bottom: 75%; height: 0;">
         <img class="mw-100" src="./Rapha-Nav-Desktop-03.PNG" />
@@ -185,5 +186,5 @@ With more and more people joining the cycling revolution we need our product cat
 </div>
 <div class="f4 measure-wide center">
 <h2 class="orange fw6">Outcome:</h2>
-We have three navigations that can be developed and multi-variant tested on the live site.
+We have two mobile navigations that can be developed and multi-variant tested against the existing navigation on the live site. The Desktop version can also be A/B tested against the current version to make sure that these developments have a positive effect on interactions and conversion rates. We also have the flexibility to make changes to the desktop navigation by using either design 1 or 2 depending on the business need, such as sale periods or at the start of a new season. 
 </div>
