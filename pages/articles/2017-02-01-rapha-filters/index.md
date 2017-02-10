@@ -20,10 +20,10 @@ bgSize: "contain"
 As a business we’re looking to add more filtering capability so that users can find products and content easier across the website. This will be present on category/collection pages and also on search results. In addition we need to ensure that the filters work well on a small screen devices as over 45% of traffic is on mobile & tablet.
 
 <h2 class="orange fw6">The Problem:</h2>
-The current filtering is very limited, users can only filter by size and there is no way to sort between the different collections such as "Pro Team" & "Brevet". As the collection grows it becomes increasingly difficult for users to navigate the shop pages, an improved filter should more visible and allow users to refine there results more effectively.
+The current filtering is very limited, users can only filter by size and there is no way to sort between the different collections such as "Pro Team" & "Brevet". As the collection grows it becomes increasingly difficult for users to navigate the shop pages. An improved filter should be more visible and allow users to refine there results more effectively.
 
 <h2 class="orange fw6">Competitive Analysis:</h2>
-It was important to see how our competitors tackled filtering so we looked at 3 direct competitors: Assos, Castelli & Vulpine and 3 indirect competitors: Nike, John Lewis & Evans Cycles. Our direct competitors aren’t really offering much in the way of filtering to customers, Vulpine has widest selection of facets despite having a much smaller catalog than Rapha. The indirect competitors are much more advanced at this, giving customers many more options for refining their results. Rapha is clearly lacking in this department but it shows we have a big opportunity to make an improvement.
+It was important to see how our competitors tackled filtering, so we looked at 3 direct competitors: Assos, Castelli & Vulpine and 3 indirect competitors: Nike, John Lewis & Evans Cycles. Our direct competitors aren’t really offering much in the way of filtering to customers, Vulpine has widest selection of facets despite having a much smaller catalog than Rapha. The indirect competitors are much more advanced at this, giving customers many more options for refining their results. Rapha is clearly lacking in this department but it shows we have a big opportunity to make an improvement.
 </div>
 <figure class="mh0 mv3">
   <img class="border-box" src="./Rapha-Competitors.jpeg" alt="Competitive Analysis" />
@@ -49,7 +49,7 @@ A simple, easy to find and use filter that can evolve as we build out more facet
 
 <div class="f4 measure-wide center">
 <h2 class="orange fw6">Testing & Iteration:</h2>
-We tested different versions of the desktop & mobile filters with staff and Rapha customers in-store, the response to the work was very positive - customers were happy to see that changes were being considered to the current filtering system. With the mobile sketches, users felt that the filters were far too long when each facet had a list format, this was changed to a grid layout to prevent needless scrolling. Users wanted keep the filters at the top of the page and have the products scroll underneath them, we changed the design to allow for a persistent filter option on both desktop and mobile.
+We tested different versions of the desktop & mobile filters with staff and Rapha customers in-store. The response to the work was very positive - customers were happy to see that changes were being considered to the current filtering system. With the mobile sketches, users felt that the filters were far too long when each facet had a list format, this was changed to a grid layout to prevent needless scrolling. Users wanted keep the filters at the top of the page and have the products scroll underneath them, therefore we changed the design to allow for a persistent filter option on both desktop and mobile.
 <figure class="mh0 mv3">
   <img class="border-box" src="./Mobile-Filters-Iterations.jpg" alt="Filter Mobile Version" />
 </figure>

@@ -16,17 +16,18 @@ bgSize: "cover"
 <div class="f4 measure-wide center">
 
 <h2 class="orange fw6">The Brief:</h2>
-Over a two week sprint, research, design and build a mobile app which addresses a social, cultural or economic issue . This can be to meet the needs of yourself, a specific social group or a larger audience. I decided to tackle a problem that most people encounter; what do I have in my fridge and what can I make with it.
+Over a two week sprint, research, design and build a mobile app which addresses a social, cultural or economic issue. This can be to meet the needs of yourself, a specific social group or a larger audience. I decided to tackle a problem that most people encounter; what do I have in my fridge and what can I make with it.
 
 <h2 class="orange fw6">Skills Used:</h2>
 Concept Mapping, User Interviews, Affinity Mapping, User Flows, Prototyping, User Testing & User Interface Design.
-Software used: Omingraffle, Photoshop, Sketch & Marvel.
+
+**Software used:** Omingraffle, Photoshop, Sketch & Marvel.
 
 <h2 class="orange fw6">The Problem:</h2>
 People are busy, they want to eat well and not keep throwing old food away because they have forgotten it was in the fridge or they didn’t know what to do with it. Whilst it would be ideal to plan meals ahead of time this is not always possible, it also doesn’t always solve the issue of what to do with that aubergine that needs eating.
 
 
-<h2 class="orange fw6">The Insight:</h2>Users like to cook and are always happy to save money by wasting less food and using up things that they already have at home. It is often difficult to remember what you have in your fridge when you are on your way home, the majority of users wanted to have a better understanding of what they already had and how they could incorporate it into a meal.
+<h2 class="orange fw6">The Insight:</h2>Users like to cook and are always happy to save money by wasting less food and using up things that they already have at home. It is often difficult to remember what you have in your fridge when you are on your way home. The majority of users wanted to have a better understanding of what they already had, and how they could incorporate it into a meal.
 
 </div>
 
@@ -45,7 +46,7 @@ An app that users can check whilst shopping to show what ingredients they curren
 <div class="f4 measure-wide center">
 <h2 class="orange fw6">Mapping the journey:</h2>
 I decided to storyboard the problem to help me make clear when the mobile app would be. It highlighted that it would be mainly used in the evenings, either at home or in the supermarket.
-I mapped out the flow of a typical users journey through the mobile app, it was clear that it was fairly complex so I broke that down into a series of smaller flows to make it much clearer.
+I mapped out the flow of a typical user's journey through the mobile app, it was clear that it was fairly complex so I broke that down into a series of smaller flows to make it much clearer.
 
 <figure class="mh0 mv3">
   <img class="border-box" src="./fridge-storyboard.jpg" alt="Competitive Analysis" />
@@ -59,7 +60,7 @@ I mapped out the flow of a typical users journey through the mobile app, it was 
 <h2 class="orange fw6">User Goals:</h2>
 After finishing the user flows and research with my users, I identified the following user goals for the mobile app:
 
-1. Upload all your ingredients to the App.
+1. Upload all your ingredients to the app.
 
 2. Find recipes based on the food you have.
 
@@ -76,11 +77,11 @@ I tested with various users, firstly with the initial screen sketches and then w
 
 The key changes made during testing were:
 
-1. Shopping List: Ability to add all ingredients from a recipe to your shopping list.
+**1. Shopping List:** Ability to add all ingredients from a recipe to your shopping list.
 
-2. Main Menu: Changed from a off-screen menu to a full screen grid, this made it much clearer for users to understand the options available to them.
+**2. Main Menu:** Changed from a off-screen menu to a full screen grid, this made it much clearer for users to understand the options available to them.
 
-3. Favourites: Users wanted a way to add recipes to a saved list so a favourite function was added.
+**3. Favourites:** Users wanted a way to add recipes to a saved list so a favourite function was added.
 
 </div>
 
@@ -89,7 +90,7 @@ The key changes made during testing were:
 </figure>
 
 <div class="f4 measure-wide center">
-After getting the initial feedback on the first set of screens I produced a second cleaner set to set about testing again, once I was confident with the layout and flow I proceeded into mid-fidelity and then visual design.
+After getting the initial feedback on the first version of my screens I produced a second cleaner set and went about testing again. Once I was confident with the layout and flow I proceeded into mid-fidelity and then visual design.
 
 <figure class="mh0 mv3">
   <img class="border-box" src="./fridge-initial-screens.jpg" alt="Competitive Analysis" />
