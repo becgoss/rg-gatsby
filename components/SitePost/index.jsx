@@ -39,8 +39,8 @@ class SitePost extends React.Component {
                   >
                   <div className='dtc v-mid bg-black-50'>
                     <header className={ post.headerTextColor || 'near-black' }>
-                      <h1 className='f1 f-headline-l lh-title fw6 mv0'>{ post.title }</h1>
-                      <h3 className='f6 fw3 lh-title mt0 i'>{ post.category }, { post.season }</h3>
+                      <h1 className={`f1 f-headline-l lh-title fw6 mv0 ${post.headerTextColor || 'near-black'}`}>{ post.title }</h1>
+                      <h3 className={`f6 fw3 lh-title mt0 i ${post.headerTextColor || 'near-black'}`}>{ post.category }, { post.season }</h3>
                       <p className="measure ph2 ph0-ns center lh-copy">{ post.description }</p>
                     </header>
                   </div>

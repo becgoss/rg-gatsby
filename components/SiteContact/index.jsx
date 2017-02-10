@@ -17,7 +17,7 @@ class SiteContact extends React.Component {
 
               <article className='pa3 ph5-ns orange cf bb b--orange'>
                   <div className='fl f3 w-80 measure-narrow-l lh-copy fw4'>
-                      <h1 className='f1 fw5 mb0 lh-title'>{ post.title }</h1>
+                      <h1 className='f1 fw6 mb0 lh-title'>{ post.title }</h1>
 
                            <div className='cf' dangerouslySetInnerHTML={ {    __html: post.body} } />
 
