@@ -23,10 +23,10 @@ class ReadNext extends React.Component {
 
             return (
                 <aside className="mt6 cf bt bw1 b--orange pt4">
-                    <figure className="fl w-30 ma0">
+                    <figure className="fl w-100 w-30-ns ma0">
                         <img src={ nextPost.data.path + nextPost.data.image } />
                     </figure>
-                    <div className="fl w-70 mt3 pl3">
+                    <div className="fl w-100 w-70-ns mt3 pl3">
                       <h6 className="near-black ttu tracked ma0">Read this next</h6>
                       <h2 className="mt3"><Link to={ nextPost.path } query={ {    readNext: true} } className="link orange dim" > { nextPost.data.title }</Link></h2>
                       <p className='f5 measure lh-copy'>
