@@ -21,11 +21,10 @@ Over a two week sprint, research, design and build a mobile app which addresses 
 <h2 class="orange fw6">Skills Used:</h2>
 Concept Mapping, User Interviews, Affinity Mapping, User Flows, Prototyping, User Testing & User Interface Design.
 
-**Software used:** Omingraffle, Photoshop, Sketch & Marvel.
+<strong class="fw6">Software used:</strong> Omingraffle, Photoshop, Sketch & Marvel.
 
 <h2 class="orange fw6">The Problem:</h2>
-People are busy, they want to eat well and not keep throwing old food away because they have forgotten it was in the fridge or they didn’t know what to do with it. Whilst it would be ideal to plan meals ahead of time this is not always possible, it also doesn’t always solve the issue of what to do with that aubergine that needs eating.
-
+People are busy, they want to eat well and not keep throwing old food away because they have forgotten it was in the fridge or they didn’t know what to do with it. Whilst it would be ideal to plan meals ahead of time this is not always possible, it also doesn’t always solve the issue of what to do with that aubergine that needs eating. A <a href="https://www.theguardian.com/business/2017/feb/10/instagram-generation-fuelling-uk-food-waste-mountain-study-sainsburys" class="link orange dim">recent Guardian outlines</a> the problem perfectly.
 
 <h2 class="orange fw6">The Insight:</h2>Users like to cook and are always happy to save money by wasting less food and using up things that they already have at home. It is often difficult to remember what you have in your fridge when you are on your way home. The majority of users wanted to have a better understanding of what they already had, and how they could incorporate it into a meal.
 
