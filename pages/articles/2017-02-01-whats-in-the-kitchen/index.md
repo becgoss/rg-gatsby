@@ -11,6 +11,7 @@ description: "This project was about rapid prototyping. In two weeks, I research
 image: "./whats-in-the-fridge.jpg"
 imageFormat: "cover"
 bgSize: "cover"
+readNext: "/rapha-filters/"
 ---
 
 <div class="f4 measure-wide center">

@@ -12,6 +12,7 @@ headerBgColor: "light-gray"
 headerTextColor: "white"
 imageFormat: "center"
 bgSize: "contain"
+readNext: "/rapha-navigation/"
 ---
 
 <div class="f4 measure-wide center">

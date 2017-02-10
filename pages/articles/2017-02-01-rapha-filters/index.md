@@ -12,6 +12,7 @@ description: "Designing a new filter for shop and search pages on Rapha.cc, expa
 image: "./Transparent-Desktop-Filter-1.png"
 imageFormat: "center"
 bgSize: "contain"
+readNext: "/rapha-basket/"
 ---
 
 <div class="f4 measure-wide center">

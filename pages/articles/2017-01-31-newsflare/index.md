@@ -11,6 +11,7 @@ headerTextColor: "near-black"
 description: "Newsflare are a company specialising in user generated video which they license to news organisations around the world. Users upload content to the Newsflare platform through desktop or a mobile application."
 image: "./newsflare-phone-header.png"
 imageFormat: "aside"
+readNext: /whats-in-the-fridge/
 ---
 
 <div class="f4 measure-wide center">

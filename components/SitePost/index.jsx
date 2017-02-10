@@ -6,6 +6,7 @@ import access from 'safe-access'
 import { config } from 'config'
 import SiteHeader from '../SiteHeader'
 import SiteFooter from '../SiteFooter'
+import ReadNext from '../ReadNext'
 
 class SitePost extends React.Component {
     render() {
@@ -49,6 +50,7 @@ class SitePost extends React.Component {
               }
               <main role='main' className='pa3 ph5-ns'>
                 <div className='lh-copy' dangerouslySetInnerHTML={ {    __html: post.body} } />
+                <ReadNext post={ post } {...this.props}/>
               </main>
               <SiteFooter {...this.props}/>
             </div>
