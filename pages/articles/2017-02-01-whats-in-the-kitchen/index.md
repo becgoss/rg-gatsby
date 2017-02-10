@@ -5,7 +5,7 @@ layout: post
 path: "/whats-in-the-fridge/"
 category: "Case Study"
 season: "Winter 2016"
-headerBgColor: "washed-blue"
+headerBgColor: "white"
 headerTextColor: "white"
 description: "This project was about rapid prototyping. In two weeks, I researched, sketched, wire-framed and prototyped a mobile application to help people to keep track of what they had in the fridge and the meals they could make within certain budgets."
 image: "./whats-in-the-fridge.jpg"
@@ -69,7 +69,7 @@ After finishing the user flows and research with my users, I identified the foll
 <h2 class="orange fw6">Testing & Iterations:</h2>
 
 
-I tested with various users, firstly with the initial screen sketches and then with a Marvel prototype. The response to the app was very encouraging and I was able to make changes based on user feedback. 
+I tested with various users, firstly with the initial screen sketches and then with a Marvel prototype. The response to the app was very encouraging and I was able to make changes based on user feedback.
 
 <figure class="mh0 mv3">
   <img class="border-box" src="./fridge-testing-hands.jpg" alt="User Testing" />
@@ -97,9 +97,9 @@ After getting the initial feedback on the first version of my screens I produced
 </figure>
 
 <h2 class="orange fw6">Design:</h2>
-I decided to keep the design of the app simple, I wanted the images of food to standout and by using a white background and a strong sans-serif typeface I was able to create a clean style. I used a serif typeface for the bylines, ingredients and recipes, which gives a hierarchy of information for the user and is also easier to read when following a recipe. 
+I decided to keep the design of the app simple, I wanted the images of food to standout and by using a white background and a strong sans-serif typeface I was able to create a clean style. I used a serif typeface for the bylines, ingredients and recipes, which gives a hierarchy of information for the user and is also easier to read when following a recipe.
 
-When testing it became apparent that the icon choice needed further work. Although the icons were easy to understand and represented the sections as users would expect, they didn't sit so well together due to their line weight. I took the time to re-factor the icons to make them work more harmoniously as a group. I also introduced colour into the menu bar to highlight the area a user was in. 
+When testing it became apparent that the icon choice needed further work. Although the icons were easy to understand and represented the sections as users would expect, they didn't sit so well together due to their line weight. I took the time to re-factor the icons to make them work more harmoniously as a group. I also introduced colour into the menu bar to highlight the area a user was in.
 
 <figure class="mh0 mv3">
   <img class="border-box" src="./fridge-icons.jpg" alt="Competitive Analysis" />
@@ -114,5 +114,4 @@ When testing it became apparent that the icon choice needed further work. Althou
 
 <div class="f4 measure-wide center">
 <h2 class="orange fw6">Outcome:</h2>
-A fun and friendly application which would allow users to create a virtual fridge to help them save money and waste less. They can view recipes based on what they have in the fridge and their desired level of spending, create shopping lists and save recipes using the favourites list. 
-
+A fun and friendly application which would allow users to create a virtual fridge to help them save money and waste less. They can view recipes based on what they have in the fridge and their desired level of spending, create shopping lists and save recipes using the favourites list.
