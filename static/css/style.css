@@ -9,15 +9,31 @@
 }
 
 .duck-egg-green {
-  color: #8cd790;
+  color: #648381;
 }
 
 .bg-duck-egg-green {
-  background-color: #8cd790;
+  background-color: #648381;
+}
+
+.light-green {
+  color: #e2efde;
 }
 
 .azure-blue {
   color: #54c6eb;
+}
+
+.golden-yellow {
+  color: #FFBF46;
+}
+
+.bg-golden-yellow {
+  background-color: #FFBF46;
+}
+
+.bg-light-green {
+  background-color: #e2efde;
 }
 
 .bg-azure-blue {
