@@ -3,6 +3,7 @@
   "name": "rg-gatsby",
   "description": "Portfolio of Rebecca Goss on Gatsby",
   "main": "n/a",
+  "repo": "https://github.com/becgoss/rg-gatsby.git",
   "scripts": {
     "develop": "gatsby develop",
     "build": "npm run clean & gatsby build & copy",
