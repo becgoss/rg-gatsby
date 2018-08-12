@@ -59,45 +59,23 @@ I ran several workshops on this project, the first of which was to get all the E
 ### Stakeholder Interviews
 I spoke to multiple stakeholders for the project to try and find out if their goals aligned and what their expectations were. They all sit in different teams and have their own agendas but although they all were looking at the project from their own perspectives the following was universally agreed: 
 
-### Experience managers and UX Designers should work together to create solutions
+**Experience managers and UX Designers should work together to create solutions**
 
 Both disciplines have different skill sets. The experience mangers understand the way the Order Journey works and how to write technical requirements, the UX designers are able to work out the best experience for the user. 
 
-### We shouldn’t be duplicating work to show stakeholders
+**We shouldn’t be duplicating work to show stakeholders**
 
 The current wireframe is illegible to anyone outside of the team.
 
 <blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“Its really difficult for the team to pull together prototypes for walk throughs, they use powerpoint to mock stuff up for stakeholders.” - <cite class="f6 db mt3 fs-normal orange">Stakeholder</cite></blockquote>
 
-### Logic and design requirements aren’t the same thing
+**Logic and design requirements aren’t the same thing**
 
 Currently every piece of information is store in the one wireframe document 
 
 <blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“I think we need a place to put the technical requirements and a place to put the design requirements because they are two different things and they need to be separate.” - <cite class="f6 db mt3 fs-normal orange">Stakeholder</cite></blockquote>
 
-A few key areas were highlighted during my interviews with users:
 
-**Wireframes aren’t a visual representation of how a page should look**
-
-<blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“We can’t use the wireframes for visuals, its more a place for storing logic behind everything. Its literally just pages and pages of logic, and copy as well."<cite class="f6 db mt3 fs-normal orange">Experience Manager</cite></blockquote>
-
-
-**Too much information contained in the Wireframes**
-
-<blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“There is just so much historical data in there, some of its not really relevant any more,  which means one its confusing for us to decipher between whats there currently and whats completely redundant."<cite class="f6 db mt3 fs-normal orange">Experience Manager</cite></blockquote>
-
-<blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“There are a few BTRs that are missed in version control, which leads to defects."<cite class="f6 db mt3 fs-normal orange">Lead Developer</cite></blockquote>
-
-**Developers create their own Design Document**
-
-<blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“We take a screen shots and then copy all the logic into a table in the document. The component designers add things into the document and then we review it."<cite class="f6 db mt3 fs-normal orange">Lead Developer</cite></blockquote>
-
-
-<blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“We take the pages impacted then we go to each page and in each page we search for the BTR, we check the display logic and then from that we amend our component design."<cite class="f6 db mt3 fs-normal orange">Lead Developer</cite></blockquote>
-
-**Content between wireframes and live doesn’t match**
-
-<blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“The business will modify the content on live so we get defects saying the content is not in sync with the wireframes."<cite class="f6 db mt3 fs-normal orange">Lead Developer</cite></blockquote>
 
 ## User Interviews
 I devised a few different sets of questions for my user interviews as multiple groups are involved in the process of making changes to the Order Journey but they all interact with the documentation in slightly different ways. Lead Developers, Developers, End to End Designers and Test teams are the primary users of any documentation produced. Experience managers, UX designers and Business Stakeholders are the secondary users, they either create it or use it to sign off that requirements have been met.  Customers & BT agents are the users of the final development but are not involved in how we get to that point. 
@@ -110,57 +88,57 @@ I created an affinity map to try and group the issues by theme:
 
 I interviewed over 25 people and from my research I found 10 key areas that are causing issues: 
 
-### Requirements too solutionised
+**Requirements too solutionised**
 
 The business is dictating the solution before it gets to the Experience Managers, they are writing requirements for the demands rather than posing problems. 
 
 <blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“The issues we’ve had to date is that the acceptance criteria underneath are often quite prescriptive and it will say I want a button on this page and its completely against what a user story should be.” <cite class="f6 db mt3 fs-normal orange">Experience Manager</cite></blockquote>
 
-### There is no way to show a journey through the Order Journey
+**There is no way to show a journey through the Order Journey**
 
 There isn’t any record of what journey a particular type of customer takes through the Order Journey, because the wireframe document is hundreds of pages its confusing to try and work out what pages are impacted. 
 
 
-###  Wireframes aren’t a visual representation of how a page should look
+**Wireframes aren’t a visual representation of how a page should look**
 
 The wireframes can’t be shared with stakeholders for sign off, they aren’t recognisable as a structure of a page and so Experience managers have to create a second document to show what the proposed changes will look like - duplicating the amount of work needed. 
 
 <blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“We can’t use the wireframes for visuals, its more a place for storing logic behind everything. Its literally just pages and pages of logic, and copy as well.” <cite class="f6 db mt3 fs-normal orange">Experience Manager</cite></blockquote>
 
-### Too much information contained in the Wireframes 
+**Too much information contained in the Wireframes** 
 
 The wireframes aren’t really a wireframe, they are lists of every single message that appears, all the logic that makes individual components work and requirements for the changes being requested. Every single change that has happened is kept in the document, making it difficult to work out what has changed which means defects are much more likely. 
 
 <blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“There are a few BTRs that are missed in version control, which leads to defects.” <cite class="f6 db mt3 fs-normal orange">Lead Developer</cite></blockquote>
 “There is just so much historical data in there, some of its not really <blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">relevant any more, which means one its confusing for us to decipher between whats there currently and whats completely redundant.” <cite class="f6 db mt3 fs-normal orange">Experience Manager</cite></blockquote> 
 
-### Lack of resource in Development team
+**Lack of resource in Development team**
 
 The waterfall process means that there are specific times allocated for the developers to review changes being proposed, there are 4 lead developers who are meant to do this during a 2 week period. Because all the work goes through these 4 people it creates a bottle neck and the developers who will be doing the coding aren’t involved in this process. 
 
 <blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“We need people who are onboard to be more involved in component design, they should be more upfront. During sizing phase only one or two designers are upfront.” <cite class="f6 db mt3 fs-normal orange">Lead Developer</cite></blockquote>
 
-### How Ecomm use the Wireframes
+**How Ecomm use the Wireframes**
 
 From the contextual inquiry its clear to see that the developers are using the document in a different way than anticipated, they only research for the tags relevant to the story they are working on. They use the search within the wireframe and also the browser to find what they are looking for, ignoring all other information on the page. 
 
-### Developers create their own Design Document
+**Developers create their own Design Document**
 
 There was a lot of scepticism about whether Developers created their own documentation, the feeling was that they were just relying on the wireframes. In reality they copy the relevant logic and screenshot sections of the wireframe into a word document.
 
 <blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“We take a screen shots and then copy all the logic into a table in the document. The component designers add things into the document and then we review it.” <cite class="f6 db mt3 fs-normal orange">Lead Developer</cite></blockquote>
 
-### Content between wireframes and live doesn’t match
+**Content between wireframes and live doesn’t match**
 
 Changes to the content and messaging are often made to the live site without going through the Experience Managers, the wireframes are then out of date and so defects are raised by the test teams. The developers are measured on the amount of defects raised. 
 
 <blockquote class="f3 measure lh-title i mid-gray bl bw2 pl4 border-box b--orange">“The business will modify the content on live so we get defects saying the content is not in sync with the wireframes.” <cite class="f6 db mt3 fs-normal orange">Lead Developer</cite></blockquote>
 
-### Copy in the Order Journey isn’t being edited or proofed
+**Copy in the Order Journey isn’t being edited or proofed**
 
 None of the copy in the Order Journey has gone through a central point, it has been added to over many years and has very little consistency in its tone of voice. 
 
-### The measures of success are missing
+**The measures of success are missing**
 
 No user testing is being carried out on the Order Journey, everything that goes live is just the assumption of someone in the business. The Experience Mangers would like to be able to push back on some of the requests but don’t have the ability to do this with out the proof of testing. 
 
