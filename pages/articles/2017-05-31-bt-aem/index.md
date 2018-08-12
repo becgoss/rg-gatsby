@@ -8,7 +8,7 @@ season: "Summer 2017"
 headerBgColor: "light-gray"
 homeHeaderBgColor: "white"
 headerTextColor: "white"
-description: "What is AEM?"
+description: "Digital transformation of the BT.com storefront using Adobe Experience Manager. A UX led project to build a component library that could facilitate all Broadband, TV and Sports sales journeys."
 image: "./aem-home-page-plain-1.png"
 imageFormat: "centre"
 bgSize: "contain"
@@ -16,6 +16,31 @@ bgSize: "contain"
 
 <div class="f4 measure-wide center">
 
-~coming soon~
+## The Brief
 
+
+## Skills Used
+
+
+## The Problem
+
+## Insight & Research
+- Insight & Iteration
+- Competitive Analysis
+- Mapping the journey
+- Workshops
+- Etc
+
+
+## The Idea
+
+
+## Testing & Iteration
+
+
+
+## Final Designs
+
+
+## Outcome
 </div>

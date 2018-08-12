@@ -16,13 +16,13 @@ bgSize: "contain"
 
 <div class="f4 measure-wide center">
 
-## The Brief:
+## The Brief
 Test existing Rapha navigation with customers and assess its effectiveness. Look at the information architecture and suggest a more user-friendly approach that will enable new customers to navigate the site without much prior knowledge of the cycling industry. Create a navigation that has a better balance of content and commerce, these areas are currently very separate and by creating more links between the two, we can extend time spent on site and increase page views.
 
-## The Problem:
+## The Problem
 Rapha's navigation has grown with the company, at the beginning the product catalogue was less than 10 items and so it was easy for customers to find what they were looking for. The range now exceeds 350 product lines covering a wide range of types, the navigation has grown piecemeal with the collection and has never been appraised for its effectiveness. We need to observe how the current navigation is being used and find out how our customers would expect the products to be categorised.
 
-## The Insight & Research:
+## The Insight & Research
 We know that most users on the site interact with the primary navigation, the rest use the featured items on the homepage or enter directly on a product page or category.
 <blockquote class="f2 measure-narrow center lh-title i mid-gray bl bw2 pl4 border-box b--orange">“87% of sessions include an interaction with the primary navigation” <cite class="f6 db mt3 fs-normal orange">Rapha Google Analytics, Sept 2016</cite></blockquote>
 This really shows how important the navigation is but we need to take a look at how its currently being used before we can work out how to improve it.
@@ -66,7 +66,7 @@ Rapha hosts a lot of events and also regular rides which are free for anyone to 
 With more and more people joining the cycling revolution we need our product catalogue to be easy for new customers to understand. We know that "Riding Accessories" is a very confusing term as it could cover most items, users expect products to be grouped by type eg. Tops and that even though Rapha Events & Rides are a large selling point for the company, they are very difficult to find, even by the most seasoned Rapha Customers. By better categorising the products and changing the primary navigational headings we can make it easier for both new and existing customers to find what they are looking for.
 
 
-## Testing & Iteration:
+## Testing & Iteration
 <figure class="mh0 mv3">
   <img class="border-box" src="./Nav-Testing-Web.jpg" alt="Filter Mobile Version" />
 </figure>
@@ -121,7 +121,7 @@ Testing initially took place with Rapha staff as we wanted to get the first set 
 
 <div class="f4 measure-wide center">
 
-## Mobile Screens:
+## Mobile Screens
 With the mobile navigation we developed 5 different hi-fidelity versions and created prototypes to be tested in store. Customers were really excited to see new developments on the site and get the opportunity to be involved. Designs 2 and 4 were the best performing during testing on mobile due to the simplicity and clarity of the designs. Customers really took to the reorganisation of product categories using the terms Tops, Bottoms etc. The reaction was split between designs 2 and 4, leading us to the decision to develop both so that they could be multi-variant tested on the live site.
 </div>
 <div class="cf mv5">
@@ -158,7 +158,7 @@ With the mobile navigation we developed 5 different hi-fidelity versions and cre
 </div>
 <div class="f4 measure-wide center">
 
-## Final Desktop Screen:
+## Final Desktop Screen
 </div>
 <div class="cf mv5">
   <div class="fl w-100 border-box pb3 ph6-l">
@@ -188,6 +188,6 @@ With the mobile navigation we developed 5 different hi-fidelity versions and cre
 </div>
 <div class="f4 measure-wide center">
 
-## Outcome:
+## Outcome
 We have two mobile navigations that can be developed and multi-variant tested against the existing navigation on the live site. The Desktop version can also be A/B tested against the current version to make sure that these developments have a positive effect on interactions and conversion rates. We also have the flexibility to make changes to the desktop navigation by using either design 1 or 2 depending on the business need, such as sale periods or at the start of a new season.
 </div>

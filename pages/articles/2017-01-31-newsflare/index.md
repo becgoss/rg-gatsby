@@ -20,7 +20,7 @@ Newsflare had identified a problem with the Android app, they were receiving a h
 
 Through extensive user interviews and testing we were able to validate the issues surrounding upload and login but also uncover further dissatisfaction with the lack of content, features and community on the existing Android app. With this in mind we redesigned and tested the whole app, not just the issues outlined by the Newsflare team. The redesign included: User onboarding, easy to browse content, in-app video recording, improved upload and tagging process, improved account functionality and an area to inspire users on future video projects they could complete.
 
-## The Brief:
+## The Brief
 The Android Newsflare app has been identified as having a poor and clunky UX experience for uploaders; with the uploader having to go through multiple pages, entering a lot of information to enable a successful upload.
 
 Newsflare’s key requirements are as follows -
@@ -31,12 +31,12 @@ Newsflare’s key requirements are as follows -
 
 Our users needs a way to upload a video with ease and speed because the video could be an important breaking news story. We believe that by creating a easy and quick upload process for our users we will achieve a greater retention rate of our users. We will know this to be true when we see an increase in video uploads, unique users and a decrease in App uninstalls. 
  
-## Skills Used:
+## Skills Used
 Competitive Analysis, Task Analysis, Experience Mapping, User Interviews, Affinity Mapping, Feature Analysis, Personas, User Flows, Prototyping, User Testing & User Interface Design.
 
 **Software used:** Omingraffle, Photoshop, Sketch & Invision.
  
-## The Insight & Research:
+## The Insight & Research
 Newsflare provided access to their current android app users, this was really crucial in gathering insights into how they are currently using the app and any problems that they have encountered. We also spoke to people who hadn’t seen the app before to get unbiased feedback on the functionality. Once we had all the feedback from interviews we turned these into an affinity map which highlighted the similarities in users experiences. This gave us a clear indication to the problems most users encountered with the android application.
 
 <blockquote class="f2 measure-narrow center lh-title i mid-gray bl bw2 pl4 border-box b--orange">“It could do with being a bit more user friendly.“<cite class="f6 db mt3 fs-normal orange">James, January 2017</cite></blockquote>
@@ -53,7 +53,7 @@ A few key areas were highlighted during my interviews with key users:
 
 **Community:** “If I could upload a video about an event in my area and see who else has uploaded videos on that event that would be useful. It would bring more of a community aspect to the app.”
 
-## Competitive Analysis:
+## Competitive Analysis
 We looked at 6 different competitors, 3 direct competitors who occupy the same market as Newsfare: Jukin Media, Storyful & Stringr and also 3 indirect competitors: Getty, Youtube & Instagram to get a good overview of the the user generated media sector. We wanted to look at the features these companies offer either on websites or mobile applications. The following chart highlights that no one is currently offering a full service in this market and that Newsflare have an opportunity to give users a well rounded experience and offer inspiration for future video work.
 </div>
 
@@ -63,7 +63,7 @@ We looked at 6 different competitors, 3 direct competitors who occupy the same m
 
 <div class="f4 measure-wide center">
 
-## Personas:
+## Personas
 From the user interviews, we were able to define three personas that typify Newsflare users; Carol: a mum of two in Ireland, James: a student living and studing in London and Geoff: an IT Consultant from Portland USA. Whilst all three of these personas are Newsflare's users, Geoff is someone who is going to use all the features of the app and be more interested in Assignments to progress his work.
 
 Carol, 32, Stay at home mum, Ireland.  
@@ -120,7 +120,7 @@ Wants a quick payment turnaround. 
 
 <div class="f4 measure-wide center">
 
-## Mapping the journey:
+## Mapping the journey
 We undertook a task analysis to ascertain the different tasks that needed to be fulfilled in order for a new user to shoot a video, upload it to Newsflare and then make a sale. We also plotted the emotional state of the user whilst undertaking these tasks which is outlined in an experience map.
 </div>
 
@@ -130,7 +130,7 @@ We undertook a task analysis to ascertain the different tasks that needed to be 
 
 <div class="f4 measure-wide center tc">
 
-## User Goals
+## User Goal
 </div>
 <div class="cf">
   <div class="fl w-100 w-50-l pr2-l pb3">
@@ -153,7 +153,7 @@ We undertook a task analysis to ascertain the different tasks that needed to be 
 
 <div class="f4 measure-wide center">
 
-## Feature Analysis:
+## Feature Analysis
 We ran a design studio with Newsflare to go through our competitor and user findings. We outlined the main issues that their users were encountering on the android app and the features they would like to see in a new version. We created a list of all the features both Newsflare and users wanted and prioritised them using the Must have, Should have, Could have and Won’t have but would like technique.
 
 <div class="dt dt--fixed w-100">
@@ -241,7 +241,7 @@ The layout of elements was carefully considered, the app needed to feel balanced
 </div>
 <div class="f4 measure-wide center">
 
-## Browsing Content:
+## Browsing Content
 </div>
 <figure class="mh0 mv3 ba b--light-silver">
   <img class="border-box" src="./newsflare-content-screens.jpg" alt="Task Analysis" />
@@ -249,7 +249,7 @@ The layout of elements was carefully considered, the app needed to feel balanced
 
 <div class="f4 measure-wide center">
 
-## Uploading from library:
+## Uploading from library
 </div>
 <figure class="mh0 mv3 ba b--light-silver">
   <img class="border-box" src="./newsflare-upload-screens.jpg" alt="Task Analysis" />
@@ -257,7 +257,7 @@ The layout of elements was carefully considered, the app needed to feel balanced
 
 <div class="f4 measure-wide center">
 
-## Prototype:
+## Prototype
 Here is the finished prototype that was delivered to Newsflare on completion of the project.
 </div>
 <figure class="cf tc ma0 mb3">
@@ -266,10 +266,10 @@ Here is the finished prototype that was delivered to Newsflare on completion of 
 
 <div class="f4 measure-wide center">
 
-## Outcome:
+## Outcome
 We designed a fully fleshed out prototype of the Android app, which addressed the issues originally laid out in the brief, such as upload flow, recording function & sign-in process. We added multiple ways to browse content, an onboarding process to help users fully understand Newsflare and a better experience for users wishing to take on projects in the Missions section.
 
-  ## Next steps:
+  ## Next steps
   Whilst the product will solve the key user issues, if I had further funding I would propose the following next steps:
   * Tutorials section on top tips on filming
   * Test client-only rating system for more trust worthy results

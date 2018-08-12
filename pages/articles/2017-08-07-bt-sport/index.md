@@ -10,13 +10,41 @@ homeHeaderBgColor: "duck-egg-blue"
 headerTextColor: "white"
 imageFormat: "center"
 bgSize: "contain"
-description: "What is BT Sport"
+description: "Redesigning the BT Sport sales journeys and simplifying the way users can buy a sports package."
 image: "./bt-sport-home.png"
 ---
 
 <div class="f4 measure-wide center">
 
-~coming soon~
+## The Brief
 
+
+## Skills Used
+
+
+## The Problem
+
+
+## Insight & Research
+- Insight & Iteration
+- Competitive Analysis
+- Mapping the journey
+- Workshops
+- Etc
+
+
+
+## The Idea
+
+
+
+## Testing & Iteration
+
+
+
+## Final Designs
+
+
+## Outcome
 </div>
 
