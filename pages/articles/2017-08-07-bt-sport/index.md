@@ -71,5 +71,7 @@ New BT Sports journeys were launched and saw a 0.5% lift in conversion. Testing 
   <img class="border-box" src="./live-buytv-bt-sport.jpg" alt="Final live site screenshot" />
 </figure>
 
+More details available on request.
+
 </div>
 
