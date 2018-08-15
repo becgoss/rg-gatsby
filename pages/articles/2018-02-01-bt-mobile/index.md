@@ -67,9 +67,17 @@ Two days of user testing with 10 participants at Spotless Labs. Testing revealed
 ## Outcome
 These pages are currently in development and are due to launch November 2018.
 
-<figure class="mh0 mv3 ba b--light-silver">
-  <img class="border-box" src="./new-plans.jpg" alt="BT Mobile - new plans screenshot" />
-</figure>
+</div>
+<div class="cf">
+  <figure class="fl w-50 border-box pr3 mh0 mv3">
+    <img src="./mobile-handset-new.jpg" alt="BT mobile new" />
+  </figure>
+
+  <figure class="fl w-50 border-box pl3 mh0 mv3">
+    <img src="./new-plans.jpg" alt="BT Mobile plans new" />
+  </figure>
+</div>
+<div class="f4 measure-wide center">
 
 More details available on request.
 
