@@ -52,11 +52,11 @@ Separating out the handsets from the plans, there is currently a lot of decision
 
 <div class="cf">
   <figure class="fl w-50 border-box pr3 mh0 mv3">
-    <img src="./Handset-Plans.jpg" alt="BT mobile plans wireframe" />
+    <img src="./Handset-Wireframe.jpg" alt="BT Mobile handset wireframe" />
   </figure>
 
   <figure class="fl w-50 border-box pl3 mh0 mv3">
-    <img src="./Handset-Wireframe.jpg" alt="BT Mobile handset wireframe" />
+    <img src="./Handset-Plans.jpg" alt="BT mobile plans wireframe" />
   </figure>
 </div>
 
